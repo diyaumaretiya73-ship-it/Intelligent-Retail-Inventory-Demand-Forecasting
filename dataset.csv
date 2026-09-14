@@ -1,0 +1,1001 @@
+Date,Store_ID,Product_ID,Product_Category,Sales,Stock,Price,Promotion,Holiday,Weather,Local_Event,Competitor_Price,Supplier_Lead_Time,Year,Month,Day,Day_of_Week,Weekend
+2025-01-01,Store_4,P004,Grocery,197,21,129,No,No,Rainy,Yes,608,3,2025,1,1,2,0
+2025-01-02,Store_5,P004,Personal Care,216,135,211,No,Yes,Rainy,Yes,485,1,2025,1,2,3,0
+2025-01-03,Store_3,P005,Grocery,286,62,923,Yes,No,Sunny,Yes,682,2,2025,1,3,4,0
+2025-01-04,Store_5,P008,Grocery,287,340,112,Yes,Yes,Rainy,No,465,6,2025,1,4,5,1
+2025-01-05,Store_5,P005,Personal Care,93,398,881,Yes,Yes,Sunny,Yes,769,12,2025,1,5,6,1
+2025-01-06,Store_2,P008,Personal Care,27,292,587,Yes,No,Hot,No,820,10,2025,1,6,0,0
+2025-01-07,Store_3,P010,Pharmacy,25,459,79,No,No,Rainy,Yes,762,2,2025,1,7,1,0
+2025-01-08,Store_3,P001,Pharmacy,104,410,669,No,Yes,Rainy,No,507,6,2025,1,8,2,0
+2025-01-09,Store_3,P010,Beverage,33,430,58,Yes,No,Cloudy,Yes,549,14,2025,1,9,3,0
+2025-01-10,Store_5,P009,Personal Care,47,348,559,Yes,Yes,Hot,Yes,92,1,2025,1,10,4,0
+2025-01-11,Store_4,P006,Pharmacy,66,14,68,No,Yes,Hot,No,948,11,2025,1,11,5,1
+2025-01-12,Store_3,P003,Beverage,257,66,439,Yes,Yes,Cloudy,No,947,13,2025,1,12,6,1
+2025-01-13,Store_5,P008,Beverage,123,421,656,No,No,Cloudy,Yes,720,1,2025,1,13,0,0
+2025-01-14,Store_2,P009,Beverage,43,446,32,Yes,Yes,Sunny,No,969,5,2025,1,14,1,0
+2025-01-15,Store_4,P006,Pharmacy,61,78,55,No,No,Sunny,No,36,10,2025,1,15,2,0
+2025-01-16,Store_2,P007,Personal Care,287,127,120,No,Yes,Rainy,Yes,550,13,2025,1,16,3,0
+2025-01-17,Store_4,P001,Grocery,282,385,813,No,No,Rainy,No,750,11,2025,1,17,4,0
+2025-01-18,Store_5,P005,Beverage,278,68,105,No,No,Rainy,Yes,345,9,2025,1,18,5,1
+2025-01-19,Store_1,P005,Pharmacy,133,42,535,No,Yes,Rainy,Yes,651,14,2025,1,19,6,1
+2025-01-20,Store_4,P010,Pharmacy,32,359,242,Yes,No,Sunny,No,632,8,2025,1,20,0,0
+2025-01-21,Store_2,P004,Grocery,239,59,357,No,Yes,Hot,No,565,3,2025,1,21,1,0
+2025-01-22,Store_5,P006,Grocery,148,377,979,Yes,Yes,Rainy,Yes,615,3,2025,1,22,2,0
+2025-01-23,Store_4,P007,Pharmacy,27,498,185,No,Yes,Hot,Yes,940,1,2025,1,23,3,0
+2025-01-24,Store_1,P009,Personal Care,62,456,402,No,Yes,Rainy,Yes,727,14,2025,1,24,4,0
+2025-01-25,Store_1,P001,Grocery,195,223,875,Yes,Yes,Cloudy,Yes,861,3,2025,1,25,5,1
+2025-01-26,Store_3,P006,Pharmacy,126,206,914,Yes,No,Rainy,Yes,221,14,2025,1,26,6,1
+2025-01-27,Store_3,P007,Grocery,120,388,395,Yes,Yes,Rainy,Yes,363,12,2025,1,27,0,0
+2025-01-28,Store_2,P003,Personal Care,279,459,490,Yes,No,Rainy,No,872,12,2025,1,28,1,0
+2025-01-29,Store_4,P008,Beverage,265,487,809,No,No,Sunny,No,542,12,2025,1,29,2,0
+2025-01-30,Store_4,P005,Grocery,294,56,661,Yes,Yes,Cloudy,No,878,13,2025,1,30,3,0
+2025-01-31,Store_3,P009,Personal Care,31,477,50,No,No,Rainy,Yes,419,11,2025,1,31,4,0
+2025-02-01,Store_4,P005,Pharmacy,156,461,394,Yes,Yes,Rainy,No,237,1,2025,2,1,5,1
+2025-02-02,Store_4,P009,Grocery,38,301,30,Yes,No,Hot,Yes,464,8,2025,2,2,6,1
+2025-02-03,Store_1,P010,Grocery,40,372,321,No,No,Cloudy,Yes,784,1,2025,2,3,0,0
+2025-02-04,Store_3,P004,Pharmacy,148,93,115,No,No,Rainy,No,241,5,2025,2,4,1,0
+2025-02-05,Store_5,P009,Beverage,46,483,209,Yes,Yes,Hot,Yes,402,9,2025,2,5,2,0
+2025-02-06,Store_3,P005,Pharmacy,128,400,472,No,No,Hot,Yes,900,7,2025,2,6,3,0
+2025-02-07,Store_5,P010,Grocery,38,444,211,No,Yes,Sunny,Yes,611,4,2025,2,7,4,0
+2025-02-08,Store_1,P009,Pharmacy,43,487,505,No,No,Hot,Yes,26,11,2025,2,8,5,1
+2025-02-09,Store_2,P003,Personal Care,288,23,285,No,No,Rainy,Yes,291,9,2025,2,9,6,1
+2025-02-10,Store_4,P004,Pharmacy,181,224,443,No,No,Sunny,Yes,758,9,2025,2,10,0,0
+2025-02-11,Store_1,P009,Grocery,45,409,147,No,No,Sunny,No,35,2,2025,2,11,1,0
+2025-02-12,Store_4,P010,Pharmacy,64,463,257,No,Yes,Rainy,Yes,443,10,2025,2,12,2,0
+2025-02-13,Store_2,P006,Beverage,242,319,939,No,Yes,Cloudy,Yes,543,10,2025,2,13,3,0
+2025-02-14,Store_2,P002,Pharmacy,78,486,374,Yes,No,Hot,Yes,822,11,2025,2,14,4,0
+2025-02-15,Store_1,P007,Beverage,266,257,959,No,No,Sunny,Yes,772,12,2025,2,15,5,1
+2025-02-16,Store_2,P002,Personal Care,147,413,131,Yes,Yes,Cloudy,No,40,6,2025,2,16,6,1
+2025-02-17,Store_5,P002,Beverage,44,38,847,No,Yes,Rainy,No,709,4,2025,2,17,0,0
+2025-02-18,Store_2,P001,Pharmacy,150,289,465,No,Yes,Hot,Yes,958,8,2025,2,18,1,0
+2025-02-19,Store_4,P003,Grocery,215,347,362,No,Yes,Hot,Yes,247,12,2025,2,19,2,0
+2025-02-20,Store_4,P006,Beverage,173,328,164,No,No,Sunny,Yes,804,11,2025,2,20,3,0
+2025-02-21,Store_4,P008,Personal Care,152,211,84,Yes,No,Hot,No,307,7,2025,2,21,4,0
+2025-02-22,Store_4,P009,Beverage,47,360,266,Yes,Yes,Hot,No,828,7,2025,2,22,5,1
+2025-02-23,Store_5,P007,Beverage,208,66,754,No,Yes,Hot,No,153,11,2025,2,23,6,1
+2025-02-24,Store_3,P004,Beverage,284,401,509,Yes,Yes,Hot,No,302,10,2025,2,24,0,0
+2025-02-25,Store_1,P006,Personal Care,153,227,844,No,Yes,Rainy,Yes,423,9,2025,2,25,1,0
+2025-02-26,Store_4,P005,Pharmacy,230,71,458,No,Yes,Cloudy,No,684,13,2025,2,26,2,0
+2025-02-27,Store_2,P008,Beverage,79,166,125,Yes,Yes,Rainy,No,85,5,2025,2,27,3,0
+2025-02-28,Store_4,P001,Beverage,232,211,200,Yes,No,Rainy,Yes,668,6,2025,2,28,4,0
+2025-03-01,Store_2,P001,Grocery,235,26,203,No,No,Sunny,Yes,623,1,2025,3,1,5,1
+2025-03-02,Store_2,P006,Personal Care,245,331,245,No,No,Hot,No,456,6,2025,3,2,6,1
+2025-03-03,Store_4,P010,Beverage,65,316,796,Yes,Yes,Rainy,No,848,2,2025,3,3,0,0
+2025-03-04,Store_5,P002,Personal Care,95,67,809,No,Yes,Hot,No,953,6,2025,3,4,1,0
+2025-03-05,Store_2,P005,Beverage,296,334,928,Yes,Yes,Rainy,No,278,9,2025,3,5,2,0
+2025-03-06,Store_2,P001,Pharmacy,175,421,108,No,No,Rainy,Yes,999,8,2025,3,6,3,0
+2025-03-07,Store_4,P007,Pharmacy,267,327,707,No,Yes,Sunny,Yes,985,9,2025,3,7,4,0
+2025-03-08,Store_2,P001,Beverage,237,178,549,Yes,Yes,Cloudy,No,122,13,2025,3,8,5,1
+2025-03-09,Store_2,P004,Pharmacy,209,462,390,Yes,No,Cloudy,No,586,10,2025,3,9,6,1
+2025-03-10,Store_4,P009,Beverage,37,348,991,Yes,Yes,Rainy,No,788,8,2025,3,10,0,0
+2025-03-11,Store_4,P001,Pharmacy,199,483,955,No,No,Sunny,No,120,3,2025,3,11,1,0
+2025-03-12,Store_1,P004,Grocery,53,477,932,No,No,Hot,No,217,8,2025,3,12,2,0
+2025-03-13,Store_5,P006,Grocery,60,434,418,No,Yes,Hot,Yes,832,6,2025,3,13,3,0
+2025-03-14,Store_5,P006,Grocery,94,442,125,No,No,Rainy,Yes,245,13,2025,3,14,4,0
+2025-03-15,Store_2,P008,Personal Care,298,228,290,Yes,Yes,Cloudy,Yes,962,6,2025,3,15,5,1
+2025-03-16,Store_5,P001,Personal Care,195,186,994,No,No,Sunny,No,482,6,2025,3,16,6,1
+2025-03-17,Store_2,P007,Grocery,169,213,850,No,Yes,Cloudy,No,256,3,2025,3,17,0,0
+2025-03-18,Store_1,P001,Personal Care,292,80,522,No,No,Hot,Yes,45,10,2025,3,18,1,0
+2025-03-19,Store_4,P007,Pharmacy,127,396,698,Yes,Yes,Cloudy,Yes,140,1,2025,3,19,2,0
+2025-03-20,Store_4,P003,Beverage,158,275,544,No,No,Hot,No,929,12,2025,3,20,3,0
+2025-03-21,Store_4,P008,Beverage,290,107,868,No,No,Sunny,Yes,525,14,2025,3,21,4,0
+2025-03-22,Store_5,P003,Beverage,231,354,51,Yes,No,Sunny,No,201,4,2025,3,22,5,1
+2025-03-23,Store_1,P001,Grocery,291,300,412,No,Yes,Rainy,No,730,10,2025,3,23,6,1
+2025-03-24,Store_5,P008,Personal Care,85,217,59,No,Yes,Rainy,Yes,833,12,2025,3,24,0,0
+2025-03-25,Store_5,P003,Pharmacy,267,11,679,Yes,No,Cloudy,Yes,786,6,2025,3,25,1,0
+2025-03-26,Store_1,P002,Pharmacy,175,133,237,No,Yes,Sunny,Yes,653,11,2025,3,26,2,0
+2025-03-27,Store_1,P001,Grocery,66,289,750,No,No,Sunny,No,562,12,2025,3,27,3,0
+2025-03-28,Store_1,P003,Pharmacy,220,83,101,No,Yes,Rainy,No,334,10,2025,3,28,4,0
+2025-03-29,Store_1,P002,Pharmacy,167,175,864,Yes,No,Hot,Yes,816,2,2025,3,29,5,1
+2025-03-30,Store_4,P002,Pharmacy,143,31,739,No,Yes,Cloudy,No,637,7,2025,3,30,6,1
+2025-03-31,Store_3,P006,Pharmacy,20,163,220,No,No,Cloudy,No,755,7,2025,3,31,0,0
+2025-04-01,Store_3,P001,Personal Care,266,436,466,Yes,No,Rainy,No,292,11,2025,4,1,1,0
+2025-04-02,Store_1,P002,Pharmacy,147,448,863,Yes,No,Sunny,Yes,929,4,2025,4,2,2,0
+2025-04-03,Store_3,P006,Beverage,210,304,447,No,No,Rainy,No,251,4,2025,4,3,3,0
+2025-04-04,Store_3,P003,Grocery,86,228,57,No,Yes,Rainy,Yes,439,1,2025,4,4,4,0
+2025-04-05,Store_1,P004,Personal Care,23,166,230,No,No,Rainy,Yes,787,13,2025,4,5,5,1
+2025-04-06,Store_3,P001,Pharmacy,162,239,463,No,Yes,Rainy,No,461,2,2025,4,6,6,1
+2025-04-07,Store_5,P008,Personal Care,210,29,346,Yes,Yes,Hot,Yes,515,9,2025,4,7,0,0
+2025-04-08,Store_2,P007,Pharmacy,40,484,780,No,No,Hot,No,43,10,2025,4,8,1,0
+2025-04-09,Store_2,P007,Beverage,246,50,246,Yes,Yes,Sunny,Yes,128,8,2025,4,9,2,0
+2025-04-10,Store_1,P003,Grocery,136,447,67,Yes,Yes,Rainy,Yes,722,8,2025,4,10,3,0
+2025-04-11,Store_4,P010,Pharmacy,63,375,37,No,Yes,Hot,No,521,9,2025,4,11,4,0
+2025-04-12,Store_1,P010,Pharmacy,55,487,931,No,No,Sunny,Yes,878,7,2025,4,12,5,1
+2025-04-13,Store_4,P003,Pharmacy,271,412,458,Yes,Yes,Rainy,Yes,44,13,2025,4,13,6,1
+2025-04-14,Store_2,P002,Pharmacy,226,93,826,Yes,Yes,Cloudy,Yes,206,9,2025,4,14,0,0
+2025-04-15,Store_1,P001,Grocery,229,492,727,No,No,Hot,No,307,10,2025,4,15,1,0
+2025-04-16,Store_5,P007,Grocery,134,376,206,Yes,No,Sunny,No,647,12,2025,4,16,2,0
+2025-04-17,Store_3,P007,Beverage,244,331,364,No,Yes,Cloudy,Yes,357,2,2025,4,17,3,0
+2025-04-18,Store_4,P002,Grocery,153,423,243,No,No,Rainy,Yes,897,6,2025,4,18,4,0
+2025-04-19,Store_3,P007,Pharmacy,270,318,849,Yes,Yes,Rainy,Yes,933,3,2025,4,19,5,1
+2025-04-20,Store_3,P008,Beverage,238,299,507,Yes,Yes,Rainy,No,56,11,2025,4,20,6,1
+2025-04-21,Store_1,P001,Beverage,110,415,928,No,Yes,Hot,No,813,6,2025,4,21,0,0
+2025-04-22,Store_3,P009,Beverage,61,447,896,Yes,No,Sunny,Yes,156,3,2025,4,22,1,0
+2025-04-23,Store_5,P007,Pharmacy,57,143,868,No,Yes,Cloudy,No,527,8,2025,4,23,2,0
+2025-04-24,Store_3,P003,Personal Care,161,216,248,No,No,Sunny,No,246,11,2025,4,24,3,0
+2025-04-25,Store_1,P008,Pharmacy,119,292,409,No,No,Hot,No,339,13,2025,4,25,4,0
+2025-04-26,Store_5,P007,Grocery,209,275,998,Yes,Yes,Sunny,No,859,4,2025,4,26,5,1
+2025-04-27,Store_2,P008,Grocery,54,82,608,No,No,Hot,Yes,935,12,2025,4,27,6,1
+2025-04-28,Store_3,P006,Pharmacy,166,490,207,No,No,Rainy,No,201,10,2025,4,28,0,0
+2025-04-29,Store_1,P009,Pharmacy,48,477,877,No,No,Cloudy,No,893,6,2025,4,29,1,0
+2025-04-30,Store_2,P005,Beverage,103,57,289,No,No,Rainy,Yes,105,9,2025,4,30,2,0
+2025-05-01,Store_2,P003,Pharmacy,289,335,626,No,No,Sunny,Yes,486,2,2025,5,1,3,0
+2025-05-02,Store_4,P003,Beverage,173,242,329,No,Yes,Rainy,No,945,2,2025,5,2,4,0
+2025-05-03,Store_5,P001,Grocery,121,452,151,No,No,Cloudy,No,72,7,2025,5,3,5,1
+2025-05-04,Store_3,P008,Beverage,234,109,570,No,Yes,Rainy,Yes,879,2,2025,5,4,6,1
+2025-05-05,Store_1,P002,Pharmacy,169,68,91,No,Yes,Cloudy,Yes,886,2,2025,5,5,0,0
+2025-05-06,Store_4,P003,Grocery,102,267,812,No,Yes,Cloudy,Yes,254,4,2025,5,6,1,0
+2025-05-07,Store_5,P008,Personal Care,129,422,864,No,Yes,Rainy,No,978,9,2025,5,7,2,0
+2025-05-08,Store_4,P008,Beverage,294,461,691,Yes,Yes,Hot,No,798,8,2025,5,8,3,0
+2025-05-09,Store_5,P004,Grocery,220,74,206,No,Yes,Sunny,Yes,818,2,2025,5,9,4,0
+2025-05-10,Store_5,P004,Beverage,192,92,505,No,No,Hot,No,452,8,2025,5,10,5,1
+2025-05-11,Store_3,P005,Grocery,225,163,210,No,No,Hot,Yes,515,4,2025,5,11,6,1
+2025-05-12,Store_5,P006,Grocery,82,482,441,Yes,No,Rainy,No,119,2,2025,5,12,0,0
+2025-05-13,Store_4,P005,Beverage,92,275,139,No,Yes,Sunny,Yes,618,11,2025,5,13,1,0
+2025-05-14,Store_5,P007,Personal Care,270,318,239,Yes,No,Sunny,Yes,422,10,2025,5,14,2,0
+2025-05-15,Store_3,P002,Grocery,143,88,72,No,No,Hot,No,415,7,2025,5,15,3,0
+2025-05-16,Store_3,P007,Grocery,140,324,753,No,No,Rainy,No,546,6,2025,5,16,4,0
+2025-05-17,Store_4,P010,Grocery,36,430,470,Yes,Yes,Sunny,No,434,14,2025,5,17,5,1
+2025-05-18,Store_2,P007,Personal Care,139,444,431,No,No,Hot,No,958,10,2025,5,18,6,1
+2025-05-19,Store_2,P001,Personal Care,183,57,662,Yes,Yes,Sunny,No,632,5,2025,5,19,0,0
+2025-05-20,Store_5,P007,Pharmacy,284,414,256,Yes,No,Rainy,No,696,11,2025,5,20,1,0
+2025-05-21,Store_1,P005,Beverage,180,388,777,No,Yes,Rainy,Yes,482,1,2025,5,21,2,0
+2025-05-22,Store_5,P003,Personal Care,108,257,757,No,Yes,Rainy,No,560,2,2025,5,22,3,0
+2025-05-23,Store_4,P003,Beverage,161,287,739,No,Yes,Sunny,Yes,645,8,2025,5,23,4,0
+2025-05-24,Store_4,P004,Pharmacy,222,365,425,No,No,Cloudy,Yes,638,1,2025,5,24,5,1
+2025-05-25,Store_4,P002,Beverage,246,107,627,Yes,No,Sunny,No,941,3,2025,5,25,6,1
+2025-05-26,Store_4,P002,Personal Care,241,423,441,Yes,Yes,Cloudy,Yes,383,2,2025,5,26,0,0
+2025-05-27,Store_4,P001,Beverage,60,34,731,No,No,Rainy,Yes,149,5,2025,5,27,1,0
+2025-05-28,Store_3,P005,Personal Care,215,293,266,Yes,Yes,Hot,No,103,4,2025,5,28,2,0
+2025-05-29,Store_2,P004,Beverage,87,458,91,Yes,Yes,Cloudy,No,290,13,2025,5,29,3,0
+2025-05-30,Store_4,P010,Personal Care,23,342,849,No,No,Rainy,No,263,7,2025,5,30,4,0
+2025-05-31,Store_1,P002,Personal Care,21,310,204,Yes,No,Rainy,Yes,407,5,2025,5,31,5,1
+2025-06-01,Store_1,P003,Beverage,144,77,25,Yes,No,Cloudy,No,233,8,2025,6,1,6,1
+2025-06-02,Store_1,P007,Pharmacy,129,16,225,No,Yes,Hot,No,837,4,2025,6,2,0,0
+2025-06-03,Store_1,P007,Grocery,105,314,563,Yes,Yes,Rainy,No,185,12,2025,6,3,1,0
+2025-06-04,Store_3,P004,Pharmacy,139,146,630,No,No,Cloudy,No,810,6,2025,6,4,2,0
+2025-06-05,Store_1,P005,Beverage,146,173,925,Yes,Yes,Hot,Yes,78,4,2025,6,5,3,0
+2025-06-06,Store_4,P005,Pharmacy,274,92,406,No,No,Hot,No,621,2,2025,6,6,4,0
+2025-06-07,Store_5,P006,Personal Care,202,394,787,Yes,Yes,Rainy,Yes,902,1,2025,6,7,5,1
+2025-06-08,Store_1,P009,Grocery,63,356,718,Yes,No,Sunny,No,862,14,2025,6,8,6,1
+2025-06-09,Store_3,P002,Beverage,81,429,95,No,No,Sunny,Yes,943,14,2025,6,9,0,0
+2025-06-10,Store_3,P005,Beverage,177,82,196,No,Yes,Rainy,Yes,523,1,2025,6,10,1,0
+2025-06-11,Store_1,P003,Beverage,287,246,846,No,No,Hot,Yes,725,8,2025,6,11,2,0
+2025-06-12,Store_5,P004,Grocery,54,55,818,No,No,Rainy,No,142,14,2025,6,12,3,0
+2025-06-13,Store_1,P010,Personal Care,64,349,368,Yes,Yes,Cloudy,Yes,667,4,2025,6,13,4,0
+2025-06-14,Store_3,P006,Beverage,83,425,274,Yes,No,Sunny,No,432,5,2025,6,14,5,1
+2025-06-15,Store_2,P008,Pharmacy,69,297,856,Yes,Yes,Cloudy,No,158,11,2025,6,15,6,1
+2025-06-16,Store_4,P001,Beverage,274,271,721,No,No,Rainy,No,248,8,2025,6,16,0,0
+2025-06-17,Store_3,P010,Beverage,48,495,327,Yes,Yes,Rainy,No,293,12,2025,6,17,1,0
+2025-06-18,Store_1,P008,Beverage,295,175,364,Yes,No,Hot,No,458,7,2025,6,18,2,0
+2025-06-19,Store_4,P007,Beverage,191,154,146,No,No,Hot,Yes,581,13,2025,6,19,3,0
+2025-06-20,Store_1,P001,Personal Care,220,339,956,No,No,Hot,No,929,8,2025,6,20,4,0
+2025-06-21,Store_1,P002,Pharmacy,54,379,306,Yes,No,Cloudy,Yes,137,13,2025,6,21,5,1
+2025-06-22,Store_2,P003,Personal Care,235,292,785,No,Yes,Hot,Yes,733,8,2025,6,22,6,1
+2025-06-23,Store_4,P001,Pharmacy,84,63,744,Yes,Yes,Rainy,Yes,924,6,2025,6,23,0,0
+2025-06-24,Store_4,P009,Beverage,23,477,781,Yes,Yes,Hot,Yes,502,10,2025,6,24,1,0
+2025-06-25,Store_2,P008,Grocery,95,428,615,No,Yes,Sunny,Yes,414,2,2025,6,25,2,0
+2025-06-26,Store_3,P002,Personal Care,193,253,506,Yes,Yes,Hot,Yes,722,6,2025,6,26,3,0
+2025-06-27,Store_1,P009,Grocery,29,336,402,No,Yes,Cloudy,Yes,895,14,2025,6,27,4,0
+2025-06-28,Store_5,P007,Personal Care,34,136,425,No,Yes,Sunny,No,479,1,2025,6,28,5,1
+2025-06-29,Store_1,P009,Beverage,44,345,407,Yes,No,Sunny,Yes,854,1,2025,6,29,6,1
+2025-06-30,Store_1,P006,Personal Care,45,421,544,Yes,No,Sunny,No,712,11,2025,6,30,0,0
+2025-07-01,Store_3,P006,Beverage,112,376,576,Yes,No,Cloudy,Yes,954,3,2025,7,1,1,0
+2025-07-02,Store_1,P004,Personal Care,251,280,658,No,No,Rainy,Yes,97,3,2025,7,2,2,0
+2025-07-03,Store_2,P010,Beverage,50,469,957,Yes,Yes,Hot,Yes,971,11,2025,7,3,3,0
+2025-07-04,Store_2,P010,Beverage,22,314,645,No,Yes,Sunny,Yes,431,13,2025,7,4,4,0
+2025-07-05,Store_4,P002,Pharmacy,295,388,964,No,Yes,Sunny,No,94,5,2025,7,5,5,1
+2025-07-06,Store_5,P007,Beverage,176,82,295,Yes,No,Sunny,No,314,1,2025,7,6,6,1
+2025-07-07,Store_1,P005,Pharmacy,198,420,519,No,Yes,Rainy,No,812,10,2025,7,7,0,0
+2025-07-08,Store_1,P006,Beverage,151,419,736,Yes,No,Rainy,Yes,40,6,2025,7,8,1,0
+2025-07-09,Store_3,P002,Grocery,47,412,356,Yes,Yes,Cloudy,Yes,925,7,2025,7,9,2,0
+2025-07-10,Store_2,P005,Beverage,279,257,969,Yes,Yes,Rainy,Yes,190,10,2025,7,10,3,0
+2025-07-11,Store_5,P010,Grocery,66,460,951,Yes,Yes,Hot,No,34,12,2025,7,11,4,0
+2025-07-12,Store_4,P004,Grocery,86,282,500,Yes,Yes,Cloudy,Yes,230,13,2025,7,12,5,1
+2025-07-13,Store_2,P009,Beverage,21,379,916,Yes,No,Cloudy,No,579,11,2025,7,13,6,1
+2025-07-14,Store_4,P006,Grocery,181,386,930,Yes,No,Hot,No,105,3,2025,7,14,0,0
+2025-07-15,Store_3,P002,Pharmacy,276,50,992,No,Yes,Hot,Yes,168,4,2025,7,15,1,0
+2025-07-16,Store_3,P001,Personal Care,91,179,292,Yes,No,Hot,Yes,719,10,2025,7,16,2,0
+2025-07-17,Store_1,P005,Beverage,106,443,939,No,Yes,Cloudy,No,391,11,2025,7,17,3,0
+2025-07-18,Store_5,P009,Grocery,44,438,77,No,Yes,Cloudy,No,499,10,2025,7,18,4,0
+2025-07-19,Store_4,P006,Beverage,233,177,347,No,Yes,Cloudy,No,837,14,2025,7,19,5,1
+2025-07-20,Store_2,P010,Pharmacy,68,447,750,Yes,Yes,Hot,Yes,170,12,2025,7,20,6,1
+2025-07-21,Store_3,P007,Beverage,229,378,128,No,No,Hot,Yes,160,10,2025,7,21,0,0
+2025-07-22,Store_1,P005,Beverage,80,254,298,No,Yes,Sunny,Yes,88,14,2025,7,22,1,0
+2025-07-23,Store_1,P010,Grocery,25,323,705,Yes,Yes,Rainy,Yes,279,10,2025,7,23,2,0
+2025-07-24,Store_4,P006,Pharmacy,281,120,347,Yes,No,Sunny,Yes,865,10,2025,7,24,3,0
+2025-07-25,Store_3,P005,Personal Care,237,489,795,No,Yes,Hot,Yes,987,3,2025,7,25,4,0
+2025-07-26,Store_5,P009,Personal Care,45,424,334,Yes,No,Cloudy,No,540,1,2025,7,26,5,1
+2025-07-27,Store_3,P006,Grocery,112,56,493,Yes,Yes,Hot,No,652,8,2025,7,27,6,1
+2025-07-28,Store_4,P008,Beverage,128,72,130,Yes,Yes,Rainy,No,390,13,2025,7,28,0,0
+2025-07-29,Store_4,P002,Grocery,260,234,718,Yes,Yes,Sunny,Yes,438,10,2025,7,29,1,0
+2025-07-30,Store_3,P009,Grocery,27,491,800,No,Yes,Sunny,No,120,10,2025,7,30,2,0
+2025-07-31,Store_4,P005,Grocery,256,78,954,Yes,Yes,Cloudy,Yes,680,2,2025,7,31,3,0
+2025-08-01,Store_3,P007,Beverage,196,308,248,Yes,Yes,Sunny,Yes,973,1,2025,8,1,4,0
+2025-08-02,Store_2,P010,Pharmacy,54,417,516,Yes,No,Sunny,No,677,14,2025,8,2,5,1
+2025-08-03,Store_3,P001,Grocery,208,299,175,No,Yes,Hot,Yes,884,8,2025,8,3,6,1
+2025-08-04,Store_3,P010,Beverage,46,379,492,No,No,Sunny,No,987,7,2025,8,4,0,0
+2025-08-05,Store_4,P005,Pharmacy,209,212,720,Yes,No,Sunny,No,262,7,2025,8,5,1,0
+2025-08-06,Store_4,P010,Grocery,44,393,291,Yes,Yes,Sunny,Yes,772,4,2025,8,6,2,0
+2025-08-07,Store_1,P002,Personal Care,62,443,906,No,No,Cloudy,No,531,11,2025,8,7,3,0
+2025-08-08,Store_1,P006,Pharmacy,109,460,21,Yes,Yes,Cloudy,No,868,9,2025,8,8,4,0
+2025-08-09,Store_2,P001,Grocery,264,327,777,Yes,No,Hot,No,574,6,2025,8,9,5,1
+2025-08-10,Store_1,P003,Pharmacy,211,323,741,No,Yes,Sunny,No,114,2,2025,8,10,6,1
+2025-08-11,Store_3,P005,Pharmacy,125,170,530,Yes,No,Cloudy,Yes,245,14,2025,8,11,0,0
+2025-08-12,Store_4,P004,Pharmacy,252,340,932,Yes,No,Cloudy,No,537,1,2025,8,12,1,0
+2025-08-13,Store_1,P003,Pharmacy,284,25,305,No,Yes,Hot,No,233,1,2025,8,13,2,0
+2025-08-14,Store_1,P010,Pharmacy,37,364,890,No,No,Rainy,No,737,9,2025,8,14,3,0
+2025-08-15,Store_2,P005,Pharmacy,60,103,32,Yes,Yes,Sunny,Yes,86,4,2025,8,15,4,0
+2025-08-16,Store_2,P008,Grocery,36,313,627,No,Yes,Cloudy,No,415,5,2025,8,16,5,1
+2025-08-17,Store_3,P004,Personal Care,296,147,517,Yes,Yes,Hot,Yes,631,3,2025,8,17,6,1
+2025-08-18,Store_4,P001,Beverage,78,347,752,Yes,Yes,Hot,No,31,4,2025,8,18,0,0
+2025-08-19,Store_2,P007,Pharmacy,202,47,257,Yes,Yes,Hot,No,256,12,2025,8,19,1,0
+2025-08-20,Store_1,P008,Beverage,60,136,113,No,No,Cloudy,No,853,8,2025,8,20,2,0
+2025-08-21,Store_4,P003,Grocery,58,284,357,No,No,Sunny,Yes,789,13,2025,8,21,3,0
+2025-08-22,Store_4,P006,Pharmacy,211,173,800,Yes,No,Rainy,Yes,418,4,2025,8,22,4,0
+2025-08-23,Store_1,P002,Personal Care,286,452,190,Yes,Yes,Sunny,Yes,426,9,2025,8,23,5,1
+2025-08-24,Store_2,P007,Beverage,166,328,625,No,No,Hot,Yes,944,9,2025,8,24,6,1
+2025-08-25,Store_1,P008,Pharmacy,146,86,680,No,No,Hot,Yes,868,6,2025,8,25,0,0
+2025-08-26,Store_4,P006,Grocery,65,183,643,No,No,Rainy,Yes,499,2,2025,8,26,1,0
+2025-08-27,Store_5,P006,Personal Care,64,396,586,Yes,No,Sunny,No,666,12,2025,8,27,2,0
+2025-08-28,Store_5,P005,Beverage,20,467,868,No,No,Hot,Yes,241,10,2025,8,28,3,0
+2025-08-29,Store_3,P008,Beverage,187,367,955,No,Yes,Hot,No,175,11,2025,8,29,4,0
+2025-08-30,Store_1,P001,Pharmacy,127,330,486,Yes,Yes,Sunny,Yes,673,7,2025,8,30,5,1
+2025-08-31,Store_1,P010,Personal Care,20,387,647,Yes,No,Hot,Yes,447,9,2025,8,31,6,1
+2025-09-01,Store_3,P004,Personal Care,91,100,162,Yes,Yes,Sunny,Yes,177,6,2025,9,1,0,0
+2025-09-02,Store_3,P004,Personal Care,128,247,220,No,Yes,Hot,No,996,3,2025,9,2,1,0
+2025-09-03,Store_3,P003,Personal Care,287,273,199,Yes,No,Sunny,Yes,435,14,2025,9,3,2,0
+2025-09-04,Store_4,P003,Grocery,259,188,733,Yes,No,Rainy,Yes,345,7,2025,9,4,3,0
+2025-09-05,Store_1,P004,Personal Care,109,499,383,Yes,Yes,Hot,No,390,5,2025,9,5,4,0
+2025-09-06,Store_4,P001,Beverage,122,218,498,Yes,No,Rainy,No,363,1,2025,9,6,5,1
+2025-09-07,Store_3,P002,Beverage,269,82,584,No,Yes,Hot,No,281,3,2025,9,7,6,1
+2025-09-08,Store_1,P009,Grocery,67,387,490,Yes,Yes,Hot,No,302,5,2025,9,8,0,0
+2025-09-09,Store_4,P010,Beverage,58,444,403,No,No,Cloudy,Yes,869,7,2025,9,9,1,0
+2025-09-10,Store_4,P002,Beverage,193,354,711,No,Yes,Sunny,No,875,3,2025,9,10,2,0
+2025-09-11,Store_3,P005,Personal Care,177,304,945,No,Yes,Rainy,Yes,248,6,2025,9,11,3,0
+2025-09-12,Store_1,P009,Beverage,22,425,436,Yes,Yes,Rainy,Yes,907,5,2025,9,12,4,0
+2025-09-13,Store_3,P009,Grocery,23,388,844,No,No,Rainy,No,299,13,2025,9,13,5,1
+2025-09-14,Store_1,P008,Personal Care,194,293,327,Yes,No,Sunny,Yes,889,1,2025,9,14,6,1
+2025-09-15,Store_5,P001,Pharmacy,165,362,668,Yes,No,Cloudy,No,309,10,2025,9,15,0,0
+2025-09-16,Store_2,P001,Personal Care,180,191,713,Yes,No,Rainy,Yes,699,6,2025,9,16,1,0
+2025-09-17,Store_2,P009,Grocery,60,360,386,No,Yes,Sunny,No,66,14,2025,9,17,2,0
+2025-09-18,Store_2,P008,Personal Care,101,146,20,Yes,No,Hot,No,994,8,2025,9,18,3,0
+2025-09-19,Store_3,P010,Personal Care,56,314,63,Yes,No,Rainy,No,734,13,2025,9,19,4,0
+2025-09-20,Store_5,P009,Grocery,34,393,758,Yes,No,Rainy,No,233,13,2025,9,20,5,1
+2025-09-21,Store_1,P007,Personal Care,103,196,862,No,No,Cloudy,No,777,1,2025,9,21,6,1
+2025-09-22,Store_4,P003,Grocery,132,350,117,No,Yes,Rainy,No,43,2,2025,9,22,0,0
+2025-09-23,Store_1,P003,Grocery,244,267,739,No,Yes,Rainy,Yes,340,14,2025,9,23,1,0
+2025-09-24,Store_4,P002,Pharmacy,262,454,284,Yes,Yes,Hot,Yes,293,4,2025,9,24,2,0
+2025-09-25,Store_1,P005,Beverage,162,67,819,No,No,Sunny,Yes,575,12,2025,9,25,3,0
+2025-09-26,Store_5,P003,Beverage,60,372,802,Yes,No,Sunny,No,863,2,2025,9,26,4,0
+2025-09-27,Store_4,P006,Personal Care,277,132,159,Yes,Yes,Cloudy,Yes,332,11,2025,9,27,5,1
+2025-09-28,Store_3,P002,Personal Care,124,197,500,No,No,Hot,No,382,9,2025,9,28,6,1
+2025-09-29,Store_1,P003,Pharmacy,221,239,256,Yes,No,Sunny,Yes,687,10,2025,9,29,0,0
+2025-09-30,Store_1,P005,Pharmacy,285,177,993,No,Yes,Hot,Yes,399,8,2025,9,30,1,0
+2025-10-01,Store_4,P001,Pharmacy,229,429,972,Yes,Yes,Sunny,No,730,8,2025,10,1,2,0
+2025-10-02,Store_3,P001,Grocery,70,123,923,No,No,Hot,Yes,938,4,2025,10,2,3,0
+2025-10-03,Store_3,P010,Pharmacy,27,350,91,Yes,No,Cloudy,Yes,693,5,2025,10,3,4,0
+2025-10-04,Store_5,P009,Pharmacy,57,326,686,Yes,No,Rainy,Yes,926,4,2025,10,4,5,1
+2025-10-05,Store_3,P007,Personal Care,58,46,209,Yes,Yes,Cloudy,No,489,13,2025,10,5,6,1
+2025-10-06,Store_3,P001,Pharmacy,47,344,287,Yes,Yes,Sunny,Yes,765,9,2025,10,6,0,0
+2025-10-07,Store_3,P008,Grocery,278,101,340,Yes,Yes,Cloudy,No,694,13,2025,10,7,1,0
+2025-10-08,Store_2,P003,Grocery,103,27,126,No,Yes,Rainy,Yes,135,2,2025,10,8,2,0
+2025-10-09,Store_5,P008,Personal Care,174,363,251,Yes,No,Cloudy,Yes,624,13,2025,10,9,3,0
+2025-10-10,Store_1,P005,Pharmacy,136,72,61,No,Yes,Sunny,Yes,61,11,2025,10,10,4,0
+2025-10-11,Store_4,P001,Pharmacy,21,159,721,No,Yes,Sunny,Yes,815,8,2025,10,11,5,1
+2025-10-12,Store_1,P007,Grocery,112,148,902,No,No,Cloudy,No,398,2,2025,10,12,6,1
+2025-10-13,Store_5,P005,Pharmacy,185,195,158,Yes,No,Rainy,Yes,741,1,2025,10,13,0,0
+2025-10-14,Store_4,P006,Pharmacy,277,194,634,Yes,No,Cloudy,No,225,10,2025,10,14,1,0
+2025-10-15,Store_5,P006,Pharmacy,100,214,702,Yes,Yes,Rainy,No,485,3,2025,10,15,2,0
+2025-10-16,Store_3,P008,Beverage,287,269,882,No,No,Hot,Yes,751,9,2025,10,16,3,0
+2025-10-17,Store_4,P009,Personal Care,69,373,292,Yes,No,Rainy,Yes,299,12,2025,10,17,4,0
+2025-10-18,Store_3,P002,Beverage,232,265,500,Yes,Yes,Hot,No,667,3,2025,10,18,5,1
+2025-10-19,Store_1,P009,Personal Care,38,360,435,No,Yes,Cloudy,No,637,9,2025,10,19,6,1
+2025-10-20,Store_1,P010,Grocery,66,485,525,No,No,Rainy,Yes,137,7,2025,10,20,0,0
+2025-10-21,Store_4,P009,Pharmacy,45,330,752,No,Yes,Hot,Yes,256,13,2025,10,21,1,0
+2025-10-22,Store_4,P010,Personal Care,58,311,744,No,No,Hot,Yes,328,10,2025,10,22,2,0
+2025-10-23,Store_5,P010,Beverage,29,345,872,No,No,Hot,Yes,475,1,2025,10,23,3,0
+2025-10-24,Store_5,P007,Pharmacy,296,333,443,No,Yes,Sunny,Yes,919,10,2025,10,24,4,0
+2025-10-25,Store_3,P001,Grocery,126,485,426,Yes,No,Cloudy,No,494,5,2025,10,25,5,1
+2025-10-26,Store_4,P007,Personal Care,165,216,587,No,Yes,Hot,Yes,119,9,2025,10,26,6,1
+2025-10-27,Store_1,P010,Personal Care,57,458,409,Yes,Yes,Rainy,Yes,280,12,2025,10,27,0,0
+2025-10-28,Store_5,P005,Personal Care,92,320,361,Yes,Yes,Hot,No,324,3,2025,10,28,1,0
+2025-10-29,Store_5,P006,Pharmacy,141,12,965,Yes,No,Sunny,Yes,373,9,2025,10,29,2,0
+2025-10-30,Store_1,P010,Beverage,33,331,633,No,Yes,Cloudy,Yes,305,5,2025,10,30,3,0
+2025-10-31,Store_5,P007,Beverage,207,431,952,Yes,Yes,Sunny,No,347,9,2025,10,31,4,0
+2025-11-01,Store_3,P005,Personal Care,214,251,512,No,No,Sunny,Yes,122,10,2025,11,1,5,1
+2025-11-02,Store_4,P007,Grocery,175,130,211,No,No,Sunny,No,82,6,2025,11,2,6,1
+2025-11-03,Store_1,P009,Grocery,68,459,518,Yes,No,Rainy,Yes,706,9,2025,11,3,0,0
+2025-11-04,Store_4,P003,Beverage,60,111,841,No,No,Cloudy,Yes,301,7,2025,11,4,1,0
+2025-11-05,Store_5,P008,Grocery,82,47,731,Yes,Yes,Cloudy,Yes,460,7,2025,11,5,2,0
+2025-11-06,Store_5,P002,Beverage,42,350,252,Yes,Yes,Rainy,No,312,8,2025,11,6,3,0
+2025-11-07,Store_1,P007,Personal Care,94,422,964,No,Yes,Cloudy,No,757,7,2025,11,7,4,0
+2025-11-08,Store_3,P002,Beverage,67,142,246,Yes,No,Sunny,No,26,12,2025,11,8,5,1
+2025-11-09,Store_2,P004,Beverage,179,211,390,Yes,No,Cloudy,No,658,9,2025,11,9,6,1
+2025-11-10,Store_1,P007,Personal Care,137,357,158,Yes,Yes,Rainy,Yes,955,11,2025,11,10,0,0
+2025-11-11,Store_2,P003,Grocery,119,30,875,No,No,Sunny,No,111,9,2025,11,11,1,0
+2025-11-12,Store_2,P002,Beverage,186,251,836,Yes,No,Rainy,No,954,6,2025,11,12,2,0
+2025-11-13,Store_3,P010,Beverage,60,480,168,No,Yes,Hot,No,209,7,2025,11,13,3,0
+2025-11-14,Store_2,P007,Personal Care,26,460,134,No,Yes,Sunny,Yes,890,2,2025,11,14,4,0
+2025-11-15,Store_2,P001,Grocery,215,118,469,Yes,No,Sunny,Yes,495,9,2025,11,15,5,1
+2025-11-16,Store_3,P008,Beverage,75,312,82,Yes,No,Cloudy,No,530,12,2025,11,16,6,1
+2025-11-17,Store_2,P003,Personal Care,212,93,123,No,No,Sunny,No,481,13,2025,11,17,0,0
+2025-11-18,Store_2,P002,Beverage,66,92,870,No,Yes,Rainy,Yes,72,1,2025,11,18,1,0
+2025-11-19,Store_2,P003,Pharmacy,167,300,890,Yes,Yes,Cloudy,No,773,1,2025,11,19,2,0
+2025-11-20,Store_1,P005,Personal Care,294,461,687,Yes,Yes,Hot,No,505,3,2025,11,20,3,0
+2025-11-21,Store_1,P008,Grocery,176,78,292,No,Yes,Rainy,No,663,12,2025,11,21,4,0
+2025-11-22,Store_1,P010,Grocery,38,360,25,No,Yes,Hot,No,509,6,2025,11,22,5,1
+2025-11-23,Store_3,P007,Grocery,145,205,166,No,No,Hot,Yes,997,5,2025,11,23,6,1
+2025-11-24,Store_5,P007,Grocery,83,149,203,No,No,Hot,Yes,383,2,2025,11,24,0,0
+2025-11-25,Store_2,P007,Beverage,195,453,47,No,No,Sunny,Yes,131,9,2025,11,25,1,0
+2025-11-26,Store_2,P008,Beverage,135,292,981,Yes,Yes,Rainy,No,428,14,2025,11,26,2,0
+2025-11-27,Store_3,P001,Grocery,223,321,569,No,Yes,Rainy,No,26,13,2025,11,27,3,0
+2025-11-28,Store_2,P004,Grocery,50,243,138,No,Yes,Sunny,Yes,761,10,2025,11,28,4,0
+2025-11-29,Store_1,P006,Grocery,132,32,312,Yes,No,Cloudy,Yes,687,14,2025,11,29,5,1
+2025-11-30,Store_5,P009,Beverage,49,345,390,Yes,Yes,Hot,Yes,216,4,2025,11,30,6,1
+2025-12-01,Store_4,P002,Grocery,94,286,263,No,Yes,Rainy,No,854,4,2025,12,1,0,0
+2025-12-02,Store_2,P001,Grocery,64,70,599,No,No,Sunny,Yes,895,5,2025,12,2,1,0
+2025-12-03,Store_1,P010,Pharmacy,24,384,745,Yes,Yes,Hot,No,754,8,2025,12,3,2,0
+2025-12-04,Store_4,P002,Pharmacy,173,387,237,No,No,Cloudy,No,386,10,2025,12,4,3,0
+2025-12-05,Store_5,P007,Grocery,174,61,196,No,Yes,Cloudy,Yes,269,4,2025,12,5,4,0
+2025-12-06,Store_4,P003,Personal Care,253,353,318,Yes,Yes,Hot,Yes,935,5,2025,12,6,5,1
+2025-12-07,Store_1,P010,Grocery,50,379,695,No,No,Cloudy,No,614,12,2025,12,7,6,1
+2025-12-08,Store_4,P002,Pharmacy,281,246,77,Yes,No,Rainy,Yes,259,4,2025,12,8,0,0
+2025-12-09,Store_3,P007,Personal Care,144,320,288,Yes,No,Rainy,Yes,399,14,2025,12,9,1,0
+2025-12-10,Store_4,P002,Personal Care,264,311,327,Yes,No,Rainy,No,926,6,2025,12,10,2,0
+2025-12-11,Store_2,P003,Grocery,49,41,589,Yes,No,Cloudy,No,891,12,2025,12,11,3,0
+2025-12-12,Store_2,P007,Pharmacy,141,64,307,No,No,Rainy,No,854,3,2025,12,12,4,0
+2025-12-13,Store_3,P004,Pharmacy,144,361,996,Yes,Yes,Sunny,No,490,8,2025,12,13,5,1
+2025-12-14,Store_1,P001,Personal Care,56,398,124,No,Yes,Rainy,No,794,6,2025,12,14,6,1
+2025-12-15,Store_2,P005,Grocery,189,45,247,No,No,Rainy,Yes,938,10,2025,12,15,0,0
+2025-12-16,Store_5,P009,Beverage,26,434,266,No,Yes,Cloudy,No,720,5,2025,12,16,1,0
+2025-12-17,Store_2,P008,Beverage,54,499,719,No,No,Rainy,No,474,13,2025,12,17,2,0
+2025-12-18,Store_2,P009,Pharmacy,38,303,513,No,Yes,Hot,No,385,2,2025,12,18,3,0
+2025-12-19,Store_1,P010,Beverage,50,351,102,Yes,No,Sunny,Yes,309,10,2025,12,19,4,0
+2025-12-20,Store_4,P009,Pharmacy,58,458,205,Yes,Yes,Cloudy,No,893,10,2025,12,20,5,1
+2025-12-21,Store_2,P007,Pharmacy,293,304,271,Yes,Yes,Sunny,No,422,7,2025,12,21,6,1
+2025-12-22,Store_3,P004,Pharmacy,220,345,374,Yes,Yes,Hot,No,77,2,2025,12,22,0,0
+2025-12-23,Store_4,P005,Beverage,96,106,769,No,Yes,Cloudy,Yes,540,1,2025,12,23,1,0
+2025-12-24,Store_5,P001,Pharmacy,78,378,891,Yes,Yes,Cloudy,No,323,7,2025,12,24,2,0
+2025-12-25,Store_1,P001,Personal Care,145,222,715,No,No,Rainy,No,134,5,2025,12,25,3,0
+2025-12-26,Store_5,P003,Grocery,128,326,815,No,No,Sunny,No,229,1,2025,12,26,4,0
+2025-12-27,Store_4,P008,Grocery,243,146,916,Yes,No,Hot,Yes,60,4,2025,12,27,5,1
+2025-12-28,Store_4,P002,Pharmacy,297,15,957,Yes,Yes,Hot,Yes,835,12,2025,12,28,6,1
+2025-12-29,Store_4,P004,Grocery,87,118,229,Yes,No,Cloudy,Yes,192,13,2025,12,29,0,0
+2025-12-30,Store_5,P002,Beverage,88,44,835,Yes,Yes,Rainy,Yes,253,4,2025,12,30,1,0
+2025-12-31,Store_4,P005,Beverage,184,48,827,No,Yes,Cloudy,No,812,10,2025,12,31,2,0
+2026-01-01,Store_5,P009,Grocery,43,411,628,No,Yes,Cloudy,No,903,7,2026,1,1,3,0
+2026-01-02,Store_4,P001,Beverage,61,434,466,Yes,No,Cloudy,Yes,609,9,2026,1,2,4,0
+2026-01-03,Store_3,P005,Grocery,128,127,479,No,Yes,Cloudy,Yes,639,2,2026,1,3,5,1
+2026-01-04,Store_4,P009,Grocery,53,335,987,No,No,Hot,No,812,12,2026,1,4,6,1
+2026-01-05,Store_5,P001,Grocery,269,435,491,No,No,Hot,No,422,14,2026,1,5,0,0
+2026-01-06,Store_2,P009,Pharmacy,42,481,739,Yes,Yes,Cloudy,Yes,58,1,2026,1,6,1,0
+2026-01-07,Store_4,P008,Grocery,158,474,389,No,Yes,Cloudy,Yes,138,2,2026,1,7,2,0
+2026-01-08,Store_2,P004,Pharmacy,111,85,919,Yes,No,Rainy,Yes,354,7,2026,1,8,3,0
+2026-01-09,Store_3,P010,Grocery,67,353,953,Yes,No,Cloudy,Yes,355,13,2026,1,9,4,0
+2026-01-10,Store_1,P005,Grocery,144,473,511,No,No,Hot,No,558,10,2026,1,10,5,1
+2026-01-11,Store_3,P005,Grocery,130,460,942,No,No,Sunny,Yes,635,6,2026,1,11,6,1
+2026-01-12,Store_4,P006,Beverage,158,423,156,Yes,No,Hot,Yes,93,4,2026,1,12,0,0
+2026-01-13,Store_2,P007,Pharmacy,292,322,386,No,No,Rainy,No,210,1,2026,1,13,1,0
+2026-01-14,Store_2,P008,Pharmacy,118,392,931,No,Yes,Hot,No,343,13,2026,1,14,2,0
+2026-01-15,Store_5,P008,Grocery,271,223,203,Yes,No,Sunny,No,166,1,2026,1,15,3,0
+2026-01-16,Store_2,P002,Grocery,123,466,607,Yes,No,Cloudy,No,786,5,2026,1,16,4,0
+2026-01-17,Store_5,P009,Beverage,64,418,306,Yes,No,Sunny,No,303,1,2026,1,17,5,1
+2026-01-18,Store_1,P007,Beverage,268,248,491,Yes,No,Cloudy,Yes,232,12,2026,1,18,6,1
+2026-01-19,Store_4,P004,Beverage,171,174,394,No,Yes,Cloudy,Yes,654,7,2026,1,19,0,0
+2026-01-20,Store_5,P004,Pharmacy,269,96,673,No,Yes,Hot,Yes,737,13,2026,1,20,1,0
+2026-01-21,Store_1,P008,Pharmacy,294,150,768,Yes,No,Hot,No,948,11,2026,1,21,2,0
+2026-01-22,Store_2,P004,Pharmacy,184,169,556,Yes,No,Hot,Yes,771,1,2026,1,22,3,0
+2026-01-23,Store_2,P006,Grocery,27,55,530,Yes,No,Rainy,No,413,1,2026,1,23,4,0
+2026-01-24,Store_1,P005,Pharmacy,24,381,821,No,Yes,Hot,Yes,358,2,2026,1,24,5,1
+2026-01-25,Store_2,P003,Personal Care,164,121,598,Yes,Yes,Rainy,Yes,817,13,2026,1,25,6,1
+2026-01-26,Store_1,P010,Personal Care,59,426,269,No,Yes,Hot,No,41,14,2026,1,26,0,0
+2026-01-27,Store_5,P002,Beverage,183,54,939,Yes,Yes,Cloudy,No,790,11,2026,1,27,1,0
+2026-01-28,Store_5,P009,Pharmacy,25,316,529,Yes,Yes,Rainy,Yes,888,12,2026,1,28,2,0
+2026-01-29,Store_1,P010,Personal Care,57,374,649,Yes,Yes,Sunny,Yes,124,10,2026,1,29,3,0
+2026-01-30,Store_5,P009,Beverage,60,457,92,No,No,Rainy,Yes,485,3,2026,1,30,4,0
+2026-01-31,Store_5,P001,Pharmacy,136,94,301,No,Yes,Rainy,Yes,478,13,2026,1,31,5,1
+2026-02-01,Store_5,P010,Grocery,55,404,935,No,Yes,Sunny,Yes,451,11,2026,2,1,6,1
+2026-02-02,Store_3,P003,Personal Care,192,494,979,Yes,No,Rainy,No,789,1,2026,2,2,0,0
+2026-02-03,Store_4,P008,Grocery,66,143,379,No,Yes,Cloudy,No,735,9,2026,2,3,1,0
+2026-02-04,Store_2,P006,Pharmacy,159,117,29,No,No,Hot,No,841,10,2026,2,4,2,0
+2026-02-05,Store_3,P005,Personal Care,265,27,230,Yes,Yes,Sunny,No,793,8,2026,2,5,3,0
+2026-02-06,Store_5,P005,Pharmacy,168,103,854,Yes,No,Hot,Yes,638,5,2026,2,6,4,0
+2026-02-07,Store_1,P006,Grocery,265,159,171,No,No,Cloudy,Yes,782,13,2026,2,7,5,1
+2026-02-08,Store_5,P007,Personal Care,24,255,24,No,No,Sunny,No,955,11,2026,2,8,6,1
+2026-02-09,Store_4,P001,Grocery,203,298,214,No,No,Hot,Yes,240,2,2026,2,9,0,0
+2026-02-10,Store_5,P009,Pharmacy,46,449,973,No,No,Hot,No,398,5,2026,2,10,1,0
+2026-02-11,Store_1,P003,Pharmacy,65,218,302,Yes,Yes,Cloudy,Yes,241,6,2026,2,11,2,0
+2026-02-12,Store_4,P004,Grocery,31,135,483,Yes,Yes,Hot,Yes,277,14,2026,2,12,3,0
+2026-02-13,Store_5,P010,Personal Care,30,416,132,Yes,No,Cloudy,Yes,732,1,2026,2,13,4,0
+2026-02-14,Store_4,P001,Grocery,36,425,290,No,No,Rainy,No,386,11,2026,2,14,5,1
+2026-02-15,Store_2,P010,Pharmacy,24,342,182,No,No,Cloudy,No,789,4,2026,2,15,6,1
+2026-02-16,Store_2,P003,Grocery,173,471,479,Yes,Yes,Rainy,No,368,9,2026,2,16,0,0
+2026-02-17,Store_5,P002,Pharmacy,127,131,124,Yes,No,Sunny,No,244,2,2026,2,17,1,0
+2026-02-18,Store_4,P002,Grocery,255,147,712,No,No,Hot,Yes,733,5,2026,2,18,2,0
+2026-02-19,Store_1,P001,Personal Care,89,124,575,No,No,Cloudy,Yes,757,1,2026,2,19,3,0
+2026-02-20,Store_5,P008,Personal Care,202,429,301,Yes,No,Cloudy,Yes,255,4,2026,2,20,4,0
+2026-02-21,Store_2,P003,Grocery,269,171,706,Yes,Yes,Hot,Yes,202,4,2026,2,21,5,1
+2026-02-22,Store_2,P003,Grocery,247,210,181,Yes,No,Hot,No,731,6,2026,2,22,6,1
+2026-02-23,Store_5,P006,Personal Care,121,243,370,No,No,Sunny,Yes,888,10,2026,2,23,0,0
+2026-02-24,Store_4,P008,Pharmacy,94,37,453,No,Yes,Sunny,Yes,777,9,2026,2,24,1,0
+2026-02-25,Store_2,P009,Personal Care,36,411,871,No,No,Cloudy,Yes,463,3,2026,2,25,2,0
+2026-02-26,Store_4,P009,Pharmacy,26,414,159,No,No,Sunny,No,884,9,2026,2,26,3,0
+2026-02-27,Store_2,P004,Grocery,211,176,490,No,Yes,Rainy,No,642,6,2026,2,27,4,0
+2026-02-28,Store_2,P005,Grocery,268,256,151,No,Yes,Sunny,No,25,7,2026,2,28,5,1
+2026-03-01,Store_3,P002,Pharmacy,261,56,106,Yes,Yes,Sunny,Yes,255,12,2026,3,1,6,1
+2026-03-02,Store_2,P009,Grocery,46,326,707,Yes,No,Cloudy,No,146,10,2026,3,2,0,0
+2026-03-03,Store_1,P008,Pharmacy,238,136,202,No,No,Rainy,Yes,123,2,2026,3,3,1,0
+2026-03-04,Store_5,P003,Beverage,101,156,387,Yes,Yes,Sunny,Yes,768,11,2026,3,4,2,0
+2026-03-05,Store_5,P009,Personal Care,66,336,148,No,Yes,Rainy,Yes,934,10,2026,3,5,3,0
+2026-03-06,Store_4,P003,Beverage,194,408,265,Yes,Yes,Rainy,No,499,14,2026,3,6,4,0
+2026-03-07,Store_2,P009,Pharmacy,34,345,620,No,No,Rainy,No,174,6,2026,3,7,5,1
+2026-03-08,Store_1,P002,Personal Care,279,421,597,Yes,No,Hot,Yes,276,6,2026,3,8,6,1
+2026-03-09,Store_4,P010,Pharmacy,65,412,689,Yes,Yes,Hot,Yes,254,2,2026,3,9,0,0
+2026-03-10,Store_3,P009,Personal Care,32,334,918,No,No,Hot,No,519,2,2026,3,10,1,0
+2026-03-11,Store_4,P008,Personal Care,135,372,397,No,Yes,Hot,No,308,14,2026,3,11,2,0
+2026-03-12,Store_4,P009,Personal Care,30,431,168,Yes,No,Cloudy,No,529,2,2026,3,12,3,0
+2026-03-13,Store_2,P005,Personal Care,166,184,871,Yes,No,Sunny,Yes,571,10,2026,3,13,4,0
+2026-03-14,Store_3,P002,Pharmacy,82,298,452,No,No,Hot,Yes,819,12,2026,3,14,5,1
+2026-03-15,Store_4,P008,Personal Care,32,455,647,Yes,No,Cloudy,Yes,728,1,2026,3,15,6,1
+2026-03-16,Store_1,P006,Personal Care,208,490,745,No,Yes,Sunny,No,804,5,2026,3,16,0,0
+2026-03-17,Store_1,P008,Beverage,227,28,488,No,No,Hot,No,913,8,2026,3,17,1,0
+2026-03-18,Store_5,P005,Grocery,133,204,465,Yes,No,Sunny,No,795,2,2026,3,18,2,0
+2026-03-19,Store_3,P010,Grocery,64,379,500,No,Yes,Hot,Yes,588,13,2026,3,19,3,0
+2026-03-20,Store_3,P002,Beverage,233,433,903,Yes,No,Cloudy,Yes,317,5,2026,3,20,4,0
+2026-03-21,Store_5,P006,Beverage,190,184,313,Yes,Yes,Rainy,No,629,12,2026,3,21,5,1
+2026-03-22,Store_4,P005,Pharmacy,73,499,784,No,Yes,Rainy,Yes,156,8,2026,3,22,6,1
+2026-03-23,Store_3,P005,Pharmacy,145,458,162,Yes,No,Sunny,No,395,10,2026,3,23,0,0
+2026-03-24,Store_1,P001,Pharmacy,296,422,269,No,No,Cloudy,Yes,106,14,2026,3,24,1,0
+2026-03-25,Store_1,P002,Beverage,223,443,897,No,Yes,Rainy,No,438,5,2026,3,25,2,0
+2026-03-26,Store_2,P008,Beverage,213,363,967,No,Yes,Hot,Yes,773,2,2026,3,26,3,0
+2026-03-27,Store_3,P003,Personal Care,188,150,994,Yes,Yes,Rainy,Yes,218,3,2026,3,27,4,0
+2026-03-28,Store_4,P010,Pharmacy,45,379,321,No,No,Sunny,No,482,6,2026,3,28,5,1
+2026-03-29,Store_5,P003,Pharmacy,54,394,44,Yes,Yes,Sunny,No,456,11,2026,3,29,6,1
+2026-03-30,Store_5,P008,Pharmacy,203,427,808,No,Yes,Cloudy,No,329,11,2026,3,30,0,0
+2026-03-31,Store_4,P008,Grocery,76,102,908,No,Yes,Sunny,No,615,5,2026,3,31,1,0
+2026-04-01,Store_2,P002,Personal Care,241,441,909,No,No,Rainy,No,773,11,2026,4,1,2,0
+2026-04-02,Store_5,P008,Pharmacy,182,248,920,Yes,Yes,Rainy,Yes,300,4,2026,4,2,3,0
+2026-04-03,Store_3,P001,Pharmacy,38,214,89,Yes,No,Rainy,No,342,4,2026,4,3,4,0
+2026-04-04,Store_2,P006,Pharmacy,283,57,644,No,No,Rainy,No,783,5,2026,4,4,5,1
+2026-04-05,Store_3,P008,Grocery,132,442,894,No,Yes,Cloudy,No,721,2,2026,4,5,6,1
+2026-04-06,Store_1,P003,Grocery,49,254,131,Yes,No,Hot,Yes,970,9,2026,4,6,0,0
+2026-04-07,Store_2,P008,Beverage,154,329,383,Yes,Yes,Hot,No,961,2,2026,4,7,1,0
+2026-04-08,Store_5,P001,Personal Care,86,326,322,Yes,No,Cloudy,No,171,10,2026,4,8,2,0
+2026-04-09,Store_2,P009,Beverage,41,453,490,No,No,Sunny,No,321,2,2026,4,9,3,0
+2026-04-10,Store_2,P009,Personal Care,47,420,983,Yes,Yes,Hot,Yes,297,10,2026,4,10,4,0
+2026-04-11,Store_2,P005,Grocery,56,137,110,No,Yes,Sunny,Yes,670,14,2026,4,11,5,1
+2026-04-12,Store_2,P010,Pharmacy,43,446,549,Yes,Yes,Hot,No,707,9,2026,4,12,6,1
+2026-04-13,Store_3,P004,Beverage,56,291,680,No,No,Sunny,Yes,27,14,2026,4,13,0,0
+2026-04-14,Store_1,P006,Pharmacy,160,26,758,No,No,Cloudy,No,826,3,2026,4,14,1,0
+2026-04-15,Store_4,P007,Beverage,251,80,745,No,Yes,Rainy,Yes,254,10,2026,4,15,2,0
+2026-04-16,Store_2,P005,Grocery,155,278,891,Yes,Yes,Sunny,No,694,7,2026,4,16,3,0
+2026-04-17,Store_5,P010,Grocery,48,421,682,Yes,No,Rainy,Yes,580,4,2026,4,17,4,0
+2026-04-18,Store_2,P009,Grocery,28,380,211,Yes,No,Sunny,No,321,13,2026,4,18,5,1
+2026-04-19,Store_5,P003,Beverage,220,314,982,No,No,Sunny,No,57,13,2026,4,19,6,1
+2026-04-20,Store_3,P007,Personal Care,146,460,571,No,Yes,Sunny,Yes,155,6,2026,4,20,0,0
+2026-04-21,Store_5,P010,Beverage,61,472,261,Yes,No,Sunny,No,841,14,2026,4,21,1,0
+2026-04-22,Store_4,P010,Personal Care,23,453,157,No,Yes,Sunny,No,440,4,2026,4,22,2,0
+2026-04-23,Store_1,P005,Beverage,54,314,364,No,No,Rainy,No,238,10,2026,4,23,3,0
+2026-04-24,Store_5,P007,Beverage,213,112,199,No,No,Sunny,No,367,7,2026,4,24,4,0
+2026-04-25,Store_5,P002,Grocery,210,318,731,Yes,Yes,Rainy,Yes,827,1,2026,4,25,5,1
+2026-04-26,Store_1,P004,Pharmacy,123,202,522,No,Yes,Cloudy,No,565,3,2026,4,26,6,1
+2026-04-27,Store_4,P002,Pharmacy,42,250,222,Yes,Yes,Hot,Yes,883,13,2026,4,27,0,0
+2026-04-28,Store_2,P007,Personal Care,284,71,592,Yes,No,Sunny,Yes,98,3,2026,4,28,1,0
+2026-04-29,Store_5,P002,Pharmacy,279,26,211,Yes,No,Hot,Yes,767,1,2026,4,29,2,0
+2026-04-30,Store_1,P001,Beverage,94,180,24,Yes,No,Rainy,Yes,914,6,2026,4,30,3,0
+2026-05-01,Store_3,P009,Beverage,68,449,909,Yes,Yes,Cloudy,No,292,13,2026,5,1,4,0
+2026-05-02,Store_1,P001,Grocery,278,260,256,No,No,Cloudy,No,180,11,2026,5,2,5,1
+2026-05-03,Store_3,P008,Grocery,207,262,712,Yes,Yes,Cloudy,Yes,706,14,2026,5,3,6,1
+2026-05-04,Store_4,P002,Pharmacy,192,396,330,Yes,Yes,Hot,No,897,9,2026,5,4,0,0
+2026-05-05,Store_2,P008,Personal Care,64,216,568,Yes,Yes,Rainy,Yes,327,8,2026,5,5,1,0
+2026-05-06,Store_1,P003,Pharmacy,80,38,75,No,No,Sunny,No,393,11,2026,5,6,2,0
+2026-05-07,Store_5,P006,Pharmacy,102,126,462,No,No,Sunny,No,995,7,2026,5,7,3,0
+2026-05-08,Store_4,P003,Pharmacy,142,425,256,No,Yes,Rainy,No,752,10,2026,5,8,4,0
+2026-05-09,Store_1,P007,Pharmacy,35,291,889,No,No,Hot,Yes,28,8,2026,5,9,5,1
+2026-05-10,Store_5,P010,Beverage,65,418,880,Yes,Yes,Sunny,Yes,820,6,2026,5,10,6,1
+2026-05-11,Store_1,P009,Personal Care,37,357,216,Yes,Yes,Rainy,No,463,9,2026,5,11,0,0
+2026-05-12,Store_3,P002,Beverage,181,34,604,No,No,Sunny,Yes,132,3,2026,5,12,1,0
+2026-05-13,Store_1,P005,Personal Care,253,319,590,No,Yes,Cloudy,Yes,224,10,2026,5,13,2,0
+2026-05-14,Store_1,P006,Grocery,163,165,771,No,Yes,Sunny,No,424,10,2026,5,14,3,0
+2026-05-15,Store_1,P004,Pharmacy,207,82,533,No,No,Hot,Yes,717,9,2026,5,15,4,0
+2026-05-16,Store_4,P004,Beverage,32,129,468,Yes,Yes,Rainy,No,872,4,2026,5,16,5,1
+2026-05-17,Store_1,P004,Personal Care,203,321,379,No,Yes,Hot,No,216,7,2026,5,17,6,1
+2026-05-18,Store_5,P002,Grocery,130,330,719,No,Yes,Rainy,No,797,13,2026,5,18,0,0
+2026-05-19,Store_3,P004,Grocery,234,102,838,No,Yes,Cloudy,Yes,793,9,2026,5,19,1,0
+2026-05-20,Store_3,P001,Pharmacy,139,95,49,No,Yes,Rainy,No,779,2,2026,5,20,2,0
+2026-05-21,Store_1,P006,Personal Care,74,345,798,No,Yes,Sunny,No,134,2,2026,5,21,3,0
+2026-05-22,Store_4,P001,Beverage,46,434,127,No,Yes,Sunny,Yes,140,9,2026,5,22,4,0
+2026-05-23,Store_4,P010,Pharmacy,62,362,863,No,No,Cloudy,Yes,672,12,2026,5,23,5,1
+2026-05-24,Store_5,P006,Beverage,240,444,954,Yes,No,Rainy,Yes,84,13,2026,5,24,6,1
+2026-05-25,Store_1,P001,Grocery,250,127,621,Yes,Yes,Cloudy,Yes,295,3,2026,5,25,0,0
+2026-05-26,Store_3,P006,Beverage,72,242,736,Yes,Yes,Sunny,No,844,9,2026,5,26,1,0
+2026-05-27,Store_4,P010,Beverage,35,455,910,Yes,No,Hot,Yes,258,13,2026,5,27,2,0
+2026-05-28,Store_1,P008,Pharmacy,177,215,987,Yes,No,Cloudy,Yes,321,5,2026,5,28,3,0
+2026-05-29,Store_4,P002,Beverage,288,422,978,Yes,No,Hot,Yes,411,6,2026,5,29,4,0
+2026-05-30,Store_4,P002,Pharmacy,40,348,979,No,No,Hot,Yes,541,2,2026,5,30,5,1
+2026-05-31,Store_3,P004,Grocery,72,156,464,No,No,Rainy,No,988,8,2026,5,31,6,1
+2026-06-01,Store_2,P003,Pharmacy,294,459,912,Yes,Yes,Cloudy,Yes,388,11,2026,6,1,0,0
+2026-06-02,Store_5,P004,Pharmacy,233,434,457,No,No,Hot,No,252,9,2026,6,2,1,0
+2026-06-03,Store_5,P007,Personal Care,50,438,751,Yes,No,Hot,Yes,214,2,2026,6,3,2,0
+2026-06-04,Store_3,P001,Beverage,202,280,909,No,No,Rainy,No,926,6,2026,6,4,3,0
+2026-06-05,Store_4,P006,Grocery,42,396,625,No,Yes,Rainy,No,31,6,2026,6,5,4,0
+2026-06-06,Store_1,P003,Pharmacy,51,148,476,No,Yes,Sunny,Yes,925,8,2026,6,6,5,1
+2026-06-07,Store_4,P010,Grocery,52,492,634,No,Yes,Hot,No,940,10,2026,6,7,6,1
+2026-06-08,Store_3,P007,Personal Care,29,439,754,No,Yes,Sunny,Yes,708,12,2026,6,8,0,0
+2026-06-09,Store_5,P010,Beverage,48,471,717,No,Yes,Hot,No,196,5,2026,6,9,1,0
+2026-06-10,Store_4,P002,Pharmacy,71,66,715,Yes,Yes,Sunny,No,236,9,2026,6,10,2,0
+2026-06-11,Store_5,P002,Beverage,167,241,514,Yes,No,Rainy,No,30,1,2026,6,11,3,0
+2026-06-12,Store_1,P004,Personal Care,179,155,693,No,Yes,Cloudy,Yes,465,9,2026,6,12,4,0
+2026-06-13,Store_5,P001,Personal Care,33,444,266,Yes,Yes,Rainy,No,649,10,2026,6,13,5,1
+2026-06-14,Store_5,P003,Grocery,197,393,562,No,No,Sunny,Yes,183,7,2026,6,14,6,1
+2026-06-15,Store_2,P009,Pharmacy,58,399,583,Yes,Yes,Sunny,No,570,4,2026,6,15,0,0
+2026-06-16,Store_2,P007,Grocery,41,203,876,No,No,Cloudy,No,72,3,2026,6,16,1,0
+2026-06-17,Store_2,P007,Personal Care,49,233,607,Yes,No,Hot,No,237,14,2026,6,17,2,0
+2026-06-18,Store_5,P004,Beverage,210,145,916,No,Yes,Sunny,No,737,10,2026,6,18,3,0
+2026-06-19,Store_3,P002,Grocery,279,31,458,Yes,No,Sunny,No,843,11,2026,6,19,4,0
+2026-06-20,Store_5,P004,Grocery,224,15,297,No,No,Sunny,No,379,14,2026,6,20,5,1
+2026-06-21,Store_3,P006,Beverage,78,213,571,Yes,No,Cloudy,Yes,404,6,2026,6,21,6,1
+2026-06-22,Store_3,P003,Grocery,283,248,632,No,No,Rainy,Yes,75,12,2026,6,22,0,0
+2026-06-23,Store_2,P001,Beverage,31,194,130,No,Yes,Sunny,Yes,137,13,2026,6,23,1,0
+2026-06-24,Store_4,P008,Pharmacy,138,369,404,No,No,Cloudy,No,919,1,2026,6,24,2,0
+2026-06-25,Store_1,P005,Beverage,267,301,852,Yes,Yes,Sunny,Yes,272,3,2026,6,25,3,0
+2026-06-26,Store_2,P005,Pharmacy,146,344,780,Yes,No,Hot,No,817,2,2026,6,26,4,0
+2026-06-27,Store_2,P004,Beverage,94,229,210,Yes,No,Cloudy,Yes,799,11,2026,6,27,5,1
+2026-06-28,Store_4,P006,Personal Care,223,125,509,No,No,Sunny,Yes,822,13,2026,6,28,6,1
+2026-06-29,Store_1,P003,Personal Care,68,322,713,Yes,Yes,Cloudy,No,864,9,2026,6,29,0,0
+2026-06-30,Store_5,P009,Pharmacy,29,470,445,No,Yes,Sunny,No,199,3,2026,6,30,1,0
+2026-07-01,Store_5,P005,Pharmacy,260,182,424,Yes,Yes,Rainy,Yes,434,13,2026,7,1,2,0
+2026-07-02,Store_2,P003,Personal Care,173,91,354,Yes,No,Sunny,Yes,889,2,2026,7,2,3,0
+2026-07-03,Store_1,P001,Pharmacy,293,331,228,Yes,No,Cloudy,Yes,254,4,2026,7,3,4,0
+2026-07-04,Store_2,P010,Beverage,28,464,41,Yes,No,Hot,Yes,874,14,2026,7,4,5,1
+2026-07-05,Store_3,P006,Beverage,233,54,697,No,No,Hot,No,727,2,2026,7,5,6,1
+2026-07-06,Store_2,P002,Personal Care,228,344,630,Yes,Yes,Hot,Yes,839,1,2026,7,6,0,0
+2026-07-07,Store_2,P003,Grocery,107,29,227,Yes,No,Sunny,No,99,6,2026,7,7,1,0
+2026-07-08,Store_5,P001,Beverage,283,457,27,No,Yes,Rainy,No,666,10,2026,7,8,2,0
+2026-07-09,Store_5,P009,Pharmacy,50,365,721,No,No,Sunny,Yes,41,8,2026,7,9,3,0
+2026-07-10,Store_5,P008,Grocery,175,132,706,Yes,Yes,Hot,No,496,10,2026,7,10,4,0
+2026-07-11,Store_3,P002,Grocery,158,243,804,Yes,Yes,Cloudy,Yes,862,10,2026,7,11,5,1
+2026-07-12,Store_5,P008,Beverage,140,230,548,No,No,Hot,No,459,2,2026,7,12,6,1
+2026-07-13,Store_1,P009,Beverage,47,444,621,No,No,Cloudy,No,756,14,2026,7,13,0,0
+2026-07-14,Store_4,P001,Grocery,126,348,672,No,Yes,Rainy,Yes,589,9,2026,7,14,1,0
+2026-07-15,Store_1,P005,Grocery,166,12,676,Yes,No,Cloudy,No,112,13,2026,7,15,2,0
+2026-07-16,Store_1,P008,Personal Care,156,191,185,Yes,No,Sunny,No,211,3,2026,7,16,3,0
+2026-07-17,Store_5,P002,Pharmacy,181,215,868,Yes,Yes,Sunny,Yes,122,8,2026,7,17,4,0
+2026-07-18,Store_4,P004,Personal Care,119,329,515,No,Yes,Sunny,No,415,12,2026,7,18,5,1
+2026-07-19,Store_4,P007,Beverage,160,49,609,No,Yes,Cloudy,No,26,8,2026,7,19,6,1
+2026-07-20,Store_4,P003,Personal Care,102,68,448,No,Yes,Sunny,Yes,659,3,2026,7,20,0,0
+2026-07-21,Store_3,P005,Personal Care,196,448,793,Yes,No,Sunny,Yes,586,3,2026,7,21,1,0
+2026-07-22,Store_5,P008,Personal Care,217,71,182,No,Yes,Sunny,No,250,12,2026,7,22,2,0
+2026-07-23,Store_4,P010,Personal Care,22,467,385,Yes,Yes,Rainy,No,893,6,2026,7,23,3,0
+2026-07-24,Store_3,P003,Pharmacy,75,69,545,No,Yes,Cloudy,No,593,1,2026,7,24,4,0
+2026-07-25,Store_2,P004,Pharmacy,198,381,258,Yes,No,Cloudy,Yes,259,4,2026,7,25,5,1
+2026-07-26,Store_2,P009,Grocery,33,465,91,Yes,Yes,Hot,No,109,1,2026,7,26,6,1
+2026-07-27,Store_3,P007,Beverage,237,131,464,No,No,Cloudy,No,251,14,2026,7,27,0,0
+2026-07-28,Store_3,P001,Personal Care,236,488,674,Yes,Yes,Rainy,No,476,3,2026,7,28,1,0
+2026-07-29,Store_5,P004,Grocery,139,116,841,No,Yes,Cloudy,No,252,9,2026,7,29,2,0
+2026-07-30,Store_5,P004,Grocery,194,105,528,Yes,No,Rainy,No,373,14,2026,7,30,3,0
+2026-07-31,Store_2,P009,Grocery,44,384,814,No,Yes,Rainy,No,352,14,2026,7,31,4,0
+2026-08-01,Store_4,P006,Pharmacy,232,423,288,No,Yes,Cloudy,Yes,458,5,2026,8,1,5,1
+2026-08-02,Store_2,P009,Personal Care,34,488,772,Yes,No,Hot,Yes,394,12,2026,8,2,6,1
+2026-08-03,Store_4,P006,Personal Care,32,395,434,No,Yes,Sunny,No,311,5,2026,8,3,0,0
+2026-08-04,Store_4,P006,Beverage,120,71,264,Yes,Yes,Sunny,No,364,11,2026,8,4,1,0
+2026-08-05,Store_5,P005,Personal Care,43,265,694,No,Yes,Cloudy,Yes,683,4,2026,8,5,2,0
+2026-08-06,Store_1,P005,Personal Care,30,58,79,No,Yes,Cloudy,Yes,447,3,2026,8,6,3,0
+2026-08-07,Store_1,P002,Grocery,292,402,25,No,No,Rainy,Yes,676,5,2026,8,7,4,0
+2026-08-08,Store_3,P008,Beverage,113,357,728,No,Yes,Cloudy,No,149,14,2026,8,8,5,1
+2026-08-09,Store_5,P008,Personal Care,220,168,589,Yes,No,Rainy,No,160,11,2026,8,9,6,1
+2026-08-10,Store_4,P001,Pharmacy,40,133,836,No,Yes,Hot,No,434,4,2026,8,10,0,0
+2026-08-11,Store_1,P008,Personal Care,230,491,426,No,No,Cloudy,No,112,8,2026,8,11,1,0
+2026-08-12,Store_4,P005,Grocery,159,326,236,Yes,Yes,Sunny,Yes,645,4,2026,8,12,2,0
+2026-08-13,Store_1,P002,Pharmacy,120,216,949,Yes,No,Sunny,Yes,303,11,2026,8,13,3,0
+2026-08-14,Store_1,P002,Grocery,47,57,45,Yes,Yes,Cloudy,Yes,975,12,2026,8,14,4,0
+2026-08-15,Store_1,P006,Personal Care,60,418,834,Yes,No,Rainy,Yes,942,8,2026,8,15,5,1
+2026-08-16,Store_5,P009,Pharmacy,21,436,24,Yes,No,Sunny,No,674,6,2026,8,16,6,1
+2026-08-17,Store_2,P001,Beverage,275,145,551,Yes,Yes,Rainy,No,242,14,2026,8,17,0,0
+2026-08-18,Store_4,P006,Beverage,246,210,409,No,No,Cloudy,Yes,763,12,2026,8,18,1,0
+2026-08-19,Store_5,P009,Pharmacy,43,488,729,Yes,Yes,Cloudy,Yes,482,11,2026,8,19,2,0
+2026-08-20,Store_5,P008,Pharmacy,32,323,590,No,Yes,Sunny,Yes,564,5,2026,8,20,3,0
+2026-08-21,Store_5,P006,Grocery,229,366,467,Yes,Yes,Cloudy,Yes,295,4,2026,8,21,4,0
+2026-08-22,Store_5,P003,Pharmacy,248,377,773,No,Yes,Hot,Yes,701,4,2026,8,22,5,1
+2026-08-23,Store_5,P008,Grocery,119,438,165,No,Yes,Hot,No,159,12,2026,8,23,6,1
+2026-08-24,Store_3,P009,Personal Care,33,443,407,No,No,Sunny,No,376,4,2026,8,24,0,0
+2026-08-25,Store_4,P001,Grocery,35,304,804,Yes,Yes,Hot,Yes,732,11,2026,8,25,1,0
+2026-08-26,Store_5,P009,Pharmacy,67,422,268,Yes,Yes,Rainy,Yes,42,13,2026,8,26,2,0
+2026-08-27,Store_4,P006,Pharmacy,185,323,545,Yes,Yes,Sunny,Yes,987,13,2026,8,27,3,0
+2026-08-28,Store_3,P006,Personal Care,119,218,481,Yes,Yes,Sunny,No,755,9,2026,8,28,4,0
+2026-08-29,Store_3,P004,Pharmacy,128,364,32,No,Yes,Rainy,No,899,4,2026,8,29,5,1
+2026-08-30,Store_4,P001,Pharmacy,192,494,922,Yes,Yes,Hot,No,289,12,2026,8,30,6,1
+2026-08-31,Store_1,P010,Beverage,26,301,403,No,No,Hot,Yes,878,9,2026,8,31,0,0
+2026-09-01,Store_2,P008,Beverage,181,201,575,No,No,Hot,No,684,13,2026,9,1,1,0
+2026-09-02,Store_1,P002,Personal Care,235,53,906,Yes,Yes,Sunny,Yes,352,10,2026,9,2,2,0
+2026-09-03,Store_1,P001,Grocery,283,38,418,Yes,No,Sunny,No,104,6,2026,9,3,3,0
+2026-09-04,Store_1,P002,Beverage,282,68,38,Yes,Yes,Hot,No,640,10,2026,9,4,4,0
+2026-09-05,Store_5,P001,Grocery,293,80,594,No,Yes,Cloudy,No,50,13,2026,9,5,5,1
+2026-09-06,Store_3,P001,Pharmacy,22,101,510,Yes,Yes,Hot,Yes,760,7,2026,9,6,6,1
+2026-09-07,Store_1,P009,Beverage,55,405,770,No,Yes,Rainy,Yes,259,12,2026,9,7,0,0
+2026-09-08,Store_3,P001,Personal Care,168,392,438,Yes,Yes,Sunny,No,909,10,2026,9,8,1,0
+2026-09-09,Store_4,P004,Personal Care,47,229,356,No,No,Rainy,Yes,382,3,2026,9,9,2,0
+2026-09-10,Store_2,P010,Personal Care,69,407,438,Yes,No,Rainy,Yes,841,8,2026,9,10,3,0
+2026-09-11,Store_4,P006,Beverage,40,422,934,Yes,No,Sunny,Yes,408,3,2026,9,11,4,0
+2026-09-12,Store_4,P007,Grocery,271,451,935,No,No,Cloudy,Yes,672,1,2026,9,12,5,1
+2026-09-13,Store_5,P002,Pharmacy,254,410,631,Yes,Yes,Hot,Yes,687,13,2026,9,13,6,1
+2026-09-14,Store_2,P006,Grocery,246,409,694,Yes,No,Rainy,Yes,318,13,2026,9,14,0,0
+2026-09-15,Store_4,P007,Grocery,32,224,947,Yes,Yes,Sunny,Yes,876,10,2026,9,15,1,0
+2026-09-16,Store_4,P010,Pharmacy,43,371,141,Yes,No,Rainy,No,390,12,2026,9,16,2,0
+2026-09-17,Store_2,P010,Pharmacy,46,470,451,Yes,No,Hot,Yes,118,5,2026,9,17,3,0
+2026-09-18,Store_2,P002,Beverage,73,286,63,Yes,No,Cloudy,Yes,66,2,2026,9,18,4,0
+2026-09-19,Store_4,P002,Beverage,157,73,891,Yes,No,Cloudy,No,858,10,2026,9,19,5,1
+2026-09-20,Store_2,P010,Beverage,56,425,939,No,Yes,Cloudy,No,441,14,2026,9,20,6,1
+2026-09-21,Store_4,P007,Beverage,63,301,336,No,No,Sunny,No,499,6,2026,9,21,0,0
+2026-09-22,Store_4,P001,Beverage,72,499,400,Yes,No,Sunny,No,598,13,2026,9,22,1,0
+2026-09-23,Store_5,P008,Pharmacy,93,494,164,Yes,Yes,Cloudy,Yes,81,10,2026,9,23,2,0
+2026-09-24,Store_1,P003,Grocery,65,254,346,Yes,Yes,Hot,No,128,9,2026,9,24,3,0
+2026-09-25,Store_4,P006,Beverage,32,479,382,No,No,Hot,No,698,1,2026,9,25,4,0
+2026-09-26,Store_3,P009,Beverage,57,469,69,No,Yes,Sunny,Yes,568,14,2026,9,26,5,1
+2026-09-27,Store_1,P006,Grocery,121,435,84,Yes,Yes,Cloudy,Yes,138,13,2026,9,27,6,1
+2026-09-28,Store_1,P009,Beverage,49,356,374,No,Yes,Hot,Yes,617,4,2026,9,28,0,0
+2026-09-29,Store_1,P007,Grocery,277,179,819,Yes,No,Hot,No,401,1,2026,9,29,1,0
+2026-09-30,Store_5,P009,Grocery,46,380,183,Yes,Yes,Hot,Yes,411,1,2026,9,30,2,0
+2026-10-01,Store_4,P002,Pharmacy,182,278,160,Yes,No,Sunny,No,996,8,2026,10,1,3,0
+2026-10-02,Store_5,P008,Personal Care,130,276,985,Yes,No,Cloudy,Yes,71,14,2026,10,2,4,0
+2026-10-03,Store_4,P008,Pharmacy,121,63,845,No,No,Rainy,Yes,622,14,2026,10,3,5,1
+2026-10-04,Store_5,P002,Personal Care,36,25,147,No,No,Cloudy,No,308,13,2026,10,4,6,1
+2026-10-05,Store_5,P004,Personal Care,287,17,417,Yes,Yes,Cloudy,Yes,356,14,2026,10,5,0,0
+2026-10-06,Store_3,P007,Personal Care,201,113,952,No,No,Sunny,Yes,829,11,2026,10,6,1,0
+2026-10-07,Store_5,P004,Beverage,43,68,899,No,Yes,Hot,Yes,223,2,2026,10,7,2,0
+2026-10-08,Store_2,P004,Pharmacy,48,322,482,Yes,No,Hot,Yes,899,1,2026,10,8,3,0
+2026-10-09,Store_3,P006,Personal Care,190,49,770,No,Yes,Sunny,Yes,257,11,2026,10,9,4,0
+2026-10-10,Store_5,P010,Grocery,58,494,855,Yes,No,Sunny,No,401,8,2026,10,10,5,1
+2026-10-11,Store_1,P006,Beverage,207,452,827,Yes,Yes,Sunny,No,686,4,2026,10,11,6,1
+2026-10-12,Store_2,P010,Pharmacy,34,457,206,Yes,No,Sunny,Yes,771,3,2026,10,12,0,0
+2026-10-13,Store_2,P003,Personal Care,138,103,739,Yes,No,Sunny,No,155,13,2026,10,13,1,0
+2026-10-14,Store_2,P009,Grocery,45,440,751,No,Yes,Rainy,No,426,12,2026,10,14,2,0
+2026-10-15,Store_3,P010,Pharmacy,20,318,931,Yes,No,Cloudy,No,527,4,2026,10,15,3,0
+2026-10-16,Store_5,P002,Pharmacy,194,147,209,No,No,Cloudy,Yes,381,14,2026,10,16,4,0
+2026-10-17,Store_5,P006,Beverage,123,309,407,Yes,No,Cloudy,Yes,400,11,2026,10,17,5,1
+2026-10-18,Store_1,P007,Pharmacy,111,404,448,Yes,Yes,Hot,Yes,900,5,2026,10,18,6,1
+2026-10-19,Store_1,P009,Beverage,23,306,877,No,No,Rainy,No,595,1,2026,10,19,0,0
+2026-10-20,Store_2,P003,Personal Care,200,345,303,Yes,No,Cloudy,No,654,14,2026,10,20,1,0
+2026-10-21,Store_1,P010,Beverage,48,436,883,No,Yes,Hot,Yes,273,11,2026,10,21,2,0
+2026-10-22,Store_3,P003,Grocery,206,227,256,No,Yes,Rainy,Yes,496,1,2026,10,22,3,0
+2026-10-23,Store_5,P007,Beverage,194,11,213,Yes,Yes,Rainy,No,133,3,2026,10,23,4,0
+2026-10-24,Store_2,P004,Grocery,241,187,306,Yes,Yes,Hot,No,39,6,2026,10,24,5,1
+2026-10-25,Store_1,P008,Beverage,252,405,790,Yes,Yes,Rainy,Yes,547,1,2026,10,25,6,1
+2026-10-26,Store_3,P007,Pharmacy,181,380,777,Yes,No,Hot,No,164,14,2026,10,26,0,0
+2026-10-27,Store_3,P005,Personal Care,153,355,155,Yes,No,Cloudy,No,227,11,2026,10,27,1,0
+2026-10-28,Store_1,P007,Grocery,243,288,811,Yes,No,Hot,No,550,12,2026,10,28,2,0
+2026-10-29,Store_5,P003,Beverage,172,155,802,No,Yes,Rainy,No,395,2,2026,10,29,3,0
+2026-10-30,Store_1,P002,Beverage,52,327,190,No,No,Cloudy,No,523,12,2026,10,30,4,0
+2026-10-31,Store_2,P006,Beverage,74,233,178,Yes,Yes,Cloudy,No,923,14,2026,10,31,5,1
+2026-11-01,Store_1,P002,Pharmacy,26,378,220,No,Yes,Sunny,No,185,7,2026,11,1,6,1
+2026-11-02,Store_3,P003,Pharmacy,263,393,506,No,No,Sunny,Yes,569,14,2026,11,2,0,0
+2026-11-03,Store_1,P006,Grocery,145,71,576,Yes,Yes,Rainy,Yes,200,14,2026,11,3,1,0
+2026-11-04,Store_5,P005,Grocery,31,303,981,Yes,Yes,Hot,No,880,1,2026,11,4,2,0
+2026-11-05,Store_4,P008,Pharmacy,35,248,795,No,No,Hot,No,636,13,2026,11,5,3,0
+2026-11-06,Store_1,P009,Grocery,20,353,602,Yes,Yes,Rainy,No,631,14,2026,11,6,4,0
+2026-11-07,Store_5,P003,Personal Care,62,175,523,No,Yes,Cloudy,Yes,621,7,2026,11,7,5,1
+2026-11-08,Store_5,P010,Personal Care,62,403,895,Yes,No,Rainy,Yes,946,4,2026,11,8,6,1
+2026-11-09,Store_3,P003,Pharmacy,247,231,390,No,Yes,Rainy,No,831,10,2026,11,9,0,0
+2026-11-10,Store_5,P003,Grocery,130,70,122,No,Yes,Cloudy,Yes,463,14,2026,11,10,1,0
+2026-11-11,Store_5,P006,Beverage,179,138,144,No,No,Hot,No,351,6,2026,11,11,2,0
+2026-11-12,Store_5,P001,Personal Care,283,487,332,No,No,Rainy,No,522,14,2026,11,12,3,0
+2026-11-13,Store_5,P007,Pharmacy,244,182,995,Yes,No,Hot,No,932,8,2026,11,13,4,0
+2026-11-14,Store_2,P001,Grocery,236,489,817,Yes,No,Rainy,No,98,9,2026,11,14,5,1
+2026-11-15,Store_2,P005,Pharmacy,64,165,477,No,Yes,Cloudy,No,604,6,2026,11,15,6,1
+2026-11-16,Store_3,P010,Beverage,69,385,249,No,Yes,Cloudy,No,954,12,2026,11,16,0,0
+2026-11-17,Store_1,P008,Personal Care,78,387,677,Yes,No,Sunny,No,957,11,2026,11,17,1,0
+2026-11-18,Store_5,P004,Pharmacy,151,119,901,Yes,Yes,Cloudy,Yes,707,13,2026,11,18,2,0
+2026-11-19,Store_1,P005,Pharmacy,123,278,216,No,Yes,Sunny,No,415,14,2026,11,19,3,0
+2026-11-20,Store_1,P004,Pharmacy,214,420,904,No,No,Rainy,Yes,627,9,2026,11,20,4,0
+2026-11-21,Store_3,P004,Beverage,176,365,752,No,No,Hot,No,876,4,2026,11,21,5,1
+2026-11-22,Store_5,P008,Pharmacy,117,400,442,No,Yes,Cloudy,No,122,6,2026,11,22,6,1
+2026-11-23,Store_5,P002,Beverage,245,287,591,No,No,Cloudy,Yes,421,8,2026,11,23,0,0
+2026-11-24,Store_4,P001,Beverage,224,83,629,Yes,No,Cloudy,Yes,994,9,2026,11,24,1,0
+2026-11-25,Store_1,P003,Beverage,98,496,190,No,No,Rainy,No,243,3,2026,11,25,2,0
+2026-11-26,Store_1,P009,Personal Care,65,381,401,Yes,Yes,Sunny,Yes,537,2,2026,11,26,3,0
+2026-11-27,Store_2,P004,Personal Care,237,472,192,Yes,No,Rainy,No,653,6,2026,11,27,4,0
+2026-11-28,Store_4,P010,Pharmacy,41,360,682,Yes,Yes,Hot,No,255,4,2026,11,28,5,1
+2026-11-29,Store_2,P005,Pharmacy,109,397,472,No,Yes,Rainy,Yes,446,1,2026,11,29,6,1
+2026-11-30,Store_2,P002,Personal Care,123,489,369,Yes,Yes,Hot,Yes,135,8,2026,11,30,0,0
+2026-12-01,Store_2,P004,Grocery,138,288,921,Yes,No,Cloudy,Yes,182,9,2026,12,1,1,0
+2026-12-02,Store_3,P002,Personal Care,152,384,971,Yes,No,Hot,Yes,245,14,2026,12,2,2,0
+2026-12-03,Store_3,P002,Beverage,115,335,653,Yes,No,Hot,No,249,9,2026,12,3,3,0
+2026-12-04,Store_2,P004,Personal Care,162,481,513,No,No,Sunny,Yes,201,2,2026,12,4,4,0
+2026-12-05,Store_4,P006,Beverage,47,349,639,No,No,Hot,Yes,268,9,2026,12,5,5,1
+2026-12-06,Store_1,P007,Pharmacy,297,366,23,Yes,Yes,Hot,Yes,337,7,2026,12,6,6,1
+2026-12-07,Store_4,P010,Grocery,30,386,112,Yes,Yes,Rainy,Yes,984,5,2026,12,7,0,0
+2026-12-08,Store_5,P003,Pharmacy,36,213,938,No,Yes,Cloudy,Yes,229,7,2026,12,8,1,0
+2026-12-09,Store_3,P003,Beverage,78,170,25,No,No,Rainy,No,675,13,2026,12,9,2,0
+2026-12-10,Store_1,P010,Beverage,29,301,307,No,Yes,Rainy,No,411,9,2026,12,10,3,0
+2026-12-11,Store_1,P006,Beverage,218,401,637,Yes,Yes,Cloudy,Yes,876,8,2026,12,11,4,0
+2026-12-12,Store_5,P003,Grocery,45,266,165,No,No,Cloudy,Yes,115,6,2026,12,12,5,1
+2026-12-13,Store_5,P002,Personal Care,44,174,802,Yes,No,Hot,No,913,13,2026,12,13,6,1
+2026-12-14,Store_2,P008,Pharmacy,286,72,443,Yes,Yes,Hot,Yes,877,4,2026,12,14,0,0
+2026-12-15,Store_3,P005,Pharmacy,200,31,909,No,Yes,Sunny,No,775,13,2026,12,15,1,0
+2026-12-16,Store_3,P001,Personal Care,87,79,627,Yes,No,Rainy,No,105,1,2026,12,16,2,0
+2026-12-17,Store_4,P003,Pharmacy,68,390,476,No,No,Cloudy,Yes,434,6,2026,12,17,3,0
+2026-12-18,Store_2,P010,Grocery,36,477,760,Yes,No,Hot,No,413,3,2026,12,18,4,0
+2026-12-19,Store_2,P008,Pharmacy,71,105,221,No,No,Cloudy,Yes,715,6,2026,12,19,5,1
+2026-12-20,Store_2,P004,Beverage,121,172,231,Yes,Yes,Hot,Yes,652,6,2026,12,20,6,1
+2026-12-21,Store_2,P007,Personal Care,235,88,25,Yes,Yes,Sunny,No,863,14,2026,12,21,0,0
+2026-12-22,Store_3,P010,Grocery,55,330,643,No,No,Sunny,No,520,4,2026,12,22,1,0
+2026-12-23,Store_3,P002,Personal Care,76,325,395,No,Yes,Cloudy,Yes,623,2,2026,12,23,2,0
+2026-12-24,Store_2,P007,Grocery,66,129,910,No,Yes,Sunny,No,601,9,2026,12,24,3,0
+2026-12-25,Store_4,P005,Beverage,178,311,466,No,No,Cloudy,Yes,935,2,2026,12,25,4,0
+2026-12-26,Store_1,P005,Personal Care,193,187,854,Yes,Yes,Hot,No,152,3,2026,12,26,5,1
+2026-12-27,Store_1,P006,Pharmacy,261,185,125,No,Yes,Rainy,No,810,10,2026,12,27,6,1
+2026-12-28,Store_4,P009,Grocery,66,332,670,No,Yes,Sunny,Yes,668,1,2026,12,28,0,0
+2026-12-29,Store_2,P006,Personal Care,24,226,830,Yes,No,Hot,Yes,333,7,2026,12,29,1,0
+2026-12-30,Store_3,P008,Pharmacy,103,65,420,No,No,Rainy,Yes,718,1,2026,12,30,2,0
+2026-12-31,Store_1,P007,Personal Care,267,375,115,No,Yes,Rainy,No,240,11,2026,12,31,3,0
+2027-01-01,Store_5,P009,Personal Care,45,379,407,Yes,No,Rainy,Yes,995,9,2027,1,1,4,0
+2027-01-02,Store_5,P004,Personal Care,180,241,978,No,No,Hot,Yes,457,11,2027,1,2,5,1
+2027-01-03,Store_4,P002,Grocery,245,264,471,No,No,Hot,No,65,11,2027,1,3,6,1
+2027-01-04,Store_2,P007,Pharmacy,34,422,868,No,Yes,Cloudy,No,809,1,2027,1,4,0,0
+2027-01-05,Store_1,P006,Beverage,243,464,828,No,Yes,Rainy,Yes,211,5,2027,1,5,1,0
+2027-01-06,Store_2,P001,Grocery,80,113,998,No,No,Rainy,Yes,539,7,2027,1,6,2,0
+2027-01-07,Store_1,P009,Grocery,67,310,920,No,Yes,Rainy,Yes,398,3,2027,1,7,3,0
+2027-01-08,Store_4,P009,Grocery,40,460,435,Yes,Yes,Cloudy,Yes,807,9,2027,1,8,4,0
+2027-01-09,Store_4,P002,Beverage,65,411,745,No,Yes,Rainy,No,710,8,2027,1,9,5,1
+2027-01-10,Store_5,P003,Pharmacy,81,267,523,Yes,Yes,Hot,No,353,13,2027,1,10,6,1
+2027-01-11,Store_2,P005,Pharmacy,105,273,473,Yes,Yes,Rainy,Yes,58,3,2027,1,11,0,0
+2027-01-12,Store_5,P005,Pharmacy,229,340,310,Yes,No,Sunny,Yes,312,5,2027,1,12,1,0
+2027-01-13,Store_2,P001,Personal Care,97,490,553,Yes,Yes,Hot,Yes,709,7,2027,1,13,2,0
+2027-01-14,Store_5,P008,Personal Care,221,191,212,No,Yes,Cloudy,No,181,12,2027,1,14,3,0
+2027-01-15,Store_3,P008,Personal Care,242,390,999,No,Yes,Rainy,Yes,350,14,2027,1,15,4,0
+2027-01-16,Store_3,P004,Beverage,241,265,169,No,No,Sunny,Yes,905,4,2027,1,16,5,1
+2027-01-17,Store_3,P007,Personal Care,22,47,899,Yes,No,Cloudy,No,123,5,2027,1,17,6,1
+2027-01-18,Store_3,P010,Beverage,32,427,778,No,No,Cloudy,No,180,3,2027,1,18,0,0
+2027-01-19,Store_1,P003,Pharmacy,112,36,798,No,Yes,Hot,Yes,818,9,2027,1,19,1,0
+2027-01-20,Store_3,P006,Personal Care,27,285,992,No,No,Cloudy,Yes,654,10,2027,1,20,2,0
+2027-01-21,Store_4,P010,Personal Care,28,434,782,Yes,No,Cloudy,No,73,9,2027,1,21,3,0
+2027-01-22,Store_4,P010,Grocery,30,427,534,Yes,No,Cloudy,Yes,959,7,2027,1,22,4,0
+2027-01-23,Store_1,P009,Beverage,30,330,412,No,No,Cloudy,Yes,53,10,2027,1,23,5,1
+2027-01-24,Store_3,P001,Pharmacy,228,296,335,Yes,Yes,Rainy,No,261,2,2027,1,24,6,1
+2027-01-25,Store_3,P005,Grocery,259,100,95,Yes,No,Rainy,No,986,7,2027,1,25,0,0
+2027-01-26,Store_3,P004,Grocery,69,489,618,No,No,Rainy,No,909,7,2027,1,26,1,0
+2027-01-27,Store_5,P008,Pharmacy,30,70,289,Yes,Yes,Rainy,Yes,132,11,2027,1,27,2,0
+2027-01-28,Store_2,P001,Grocery,175,467,244,Yes,Yes,Sunny,No,337,5,2027,1,28,3,0
+2027-01-29,Store_5,P009,Beverage,25,475,549,No,No,Rainy,No,42,9,2027,1,29,4,0
+2027-01-30,Store_2,P006,Beverage,188,374,132,Yes,Yes,Cloudy,Yes,577,13,2027,1,30,5,1
+2027-01-31,Store_3,P004,Personal Care,291,356,270,Yes,No,Rainy,Yes,843,12,2027,1,31,6,1
+2027-02-01,Store_3,P009,Grocery,20,425,252,Yes,Yes,Rainy,No,666,11,2027,2,1,0,0
+2027-02-02,Store_5,P005,Personal Care,271,360,860,Yes,Yes,Hot,No,137,3,2027,2,2,1,0
+2027-02-03,Store_5,P005,Grocery,67,152,810,Yes,No,Cloudy,Yes,720,4,2027,2,3,2,0
+2027-02-04,Store_2,P005,Beverage,203,409,733,Yes,Yes,Rainy,Yes,662,1,2027,2,4,3,0
+2027-02-05,Store_4,P001,Beverage,206,262,102,Yes,No,Rainy,No,953,6,2027,2,5,4,0
+2027-02-06,Store_2,P001,Beverage,109,278,144,Yes,Yes,Rainy,No,231,4,2027,2,6,5,1
+2027-02-07,Store_5,P008,Grocery,158,378,194,No,No,Sunny,Yes,437,1,2027,2,7,6,1
+2027-02-08,Store_5,P008,Beverage,108,300,88,No,Yes,Rainy,No,132,2,2027,2,8,0,0
+2027-02-09,Store_1,P006,Grocery,293,468,66,No,Yes,Hot,Yes,63,3,2027,2,9,1,0
+2027-02-10,Store_5,P004,Personal Care,38,196,903,No,Yes,Cloudy,No,147,9,2027,2,10,2,0
+2027-02-11,Store_1,P002,Grocery,173,414,275,Yes,Yes,Cloudy,Yes,895,13,2027,2,11,3,0
+2027-02-12,Store_4,P002,Personal Care,279,447,746,No,Yes,Rainy,Yes,177,8,2027,2,12,4,0
+2027-02-13,Store_2,P009,Grocery,25,346,49,No,No,Rainy,No,804,7,2027,2,13,5,1
+2027-02-14,Store_2,P005,Personal Care,78,423,300,Yes,Yes,Rainy,No,846,13,2027,2,14,6,1
+2027-02-15,Store_1,P004,Beverage,144,313,943,Yes,No,Cloudy,Yes,413,11,2027,2,15,0,0
+2027-02-16,Store_2,P010,Personal Care,32,480,256,Yes,No,Cloudy,No,886,12,2027,2,16,1,0
+2027-02-17,Store_5,P001,Beverage,126,95,267,Yes,No,Sunny,No,871,14,2027,2,17,2,0
+2027-02-18,Store_3,P007,Beverage,264,175,387,Yes,Yes,Hot,No,531,4,2027,2,18,3,0
+2027-02-19,Store_1,P003,Personal Care,266,424,514,No,No,Sunny,Yes,933,1,2027,2,19,4,0
+2027-02-20,Store_2,P006,Grocery,27,471,44,Yes,Yes,Hot,No,64,8,2027,2,20,5,1
+2027-02-21,Store_1,P005,Grocery,160,417,605,No,No,Sunny,No,127,4,2027,2,21,6,1
+2027-02-22,Store_1,P005,Pharmacy,27,123,737,No,No,Cloudy,Yes,238,3,2027,2,22,0,0
+2027-02-23,Store_3,P005,Grocery,113,442,509,Yes,No,Sunny,No,462,9,2027,2,23,1,0
+2027-02-24,Store_5,P001,Pharmacy,58,489,513,No,No,Hot,No,849,10,2027,2,24,2,0
+2027-02-25,Store_1,P001,Grocery,100,365,333,No,No,Rainy,Yes,334,4,2027,2,25,3,0
+2027-02-26,Store_2,P003,Grocery,206,425,625,Yes,Yes,Hot,Yes,196,4,2027,2,26,4,0
+2027-02-27,Store_4,P010,Beverage,41,406,394,No,No,Rainy,No,247,14,2027,2,27,5,1
+2027-02-28,Store_1,P004,Pharmacy,107,216,658,No,No,Cloudy,No,722,9,2027,2,28,6,1
+2027-03-01,Store_1,P005,Grocery,261,265,956,No,Yes,Hot,Yes,691,13,2027,3,1,0,0
+2027-03-02,Store_3,P002,Pharmacy,112,244,44,Yes,Yes,Sunny,Yes,925,12,2027,3,2,1,0
+2027-03-03,Store_5,P008,Beverage,105,451,353,Yes,Yes,Hot,No,286,11,2027,3,3,2,0
+2027-03-04,Store_4,P002,Beverage,63,364,374,Yes,No,Rainy,No,889,12,2027,3,4,3,0
+2027-03-05,Store_2,P009,Pharmacy,50,318,135,No,No,Cloudy,No,857,14,2027,3,5,4,0
+2027-03-06,Store_4,P002,Beverage,93,217,67,Yes,No,Sunny,Yes,398,2,2027,3,6,5,1
+2027-03-07,Store_2,P009,Personal Care,41,380,757,No,No,Hot,No,508,14,2027,3,7,6,1
+2027-03-08,Store_5,P007,Personal Care,120,350,797,Yes,No,Rainy,Yes,721,12,2027,3,8,0,0
+2027-03-09,Store_2,P008,Beverage,175,134,118,No,No,Sunny,Yes,706,5,2027,3,9,1,0
+2027-03-10,Store_3,P002,Personal Care,274,147,478,Yes,Yes,Cloudy,Yes,309,4,2027,3,10,2,0
+2027-03-11,Store_3,P007,Grocery,190,348,542,Yes,Yes,Sunny,No,376,9,2027,3,11,3,0
+2027-03-12,Store_3,P006,Pharmacy,235,34,616,No,No,Cloudy,No,676,12,2027,3,12,4,0
+2027-03-13,Store_3,P004,Grocery,189,77,424,Yes,No,Sunny,No,763,5,2027,3,13,5,1
+2027-03-14,Store_4,P007,Pharmacy,271,70,233,No,No,Hot,Yes,891,9,2027,3,14,6,1
+2027-03-15,Store_5,P004,Beverage,74,38,704,Yes,No,Rainy,No,969,11,2027,3,15,0,0
+2027-03-16,Store_2,P002,Grocery,110,392,922,Yes,No,Hot,Yes,223,9,2027,3,16,1,0
+2027-03-17,Store_2,P010,Beverage,56,422,522,No,Yes,Hot,Yes,232,14,2027,3,17,2,0
+2027-03-18,Store_3,P007,Beverage,120,180,740,No,Yes,Cloudy,Yes,571,2,2027,3,18,3,0
+2027-03-19,Store_3,P008,Pharmacy,174,459,467,No,No,Cloudy,Yes,806,14,2027,3,19,4,0
+2027-03-20,Store_1,P002,Pharmacy,160,83,913,Yes,Yes,Cloudy,Yes,342,9,2027,3,20,5,1
+2027-03-21,Store_5,P005,Pharmacy,192,70,595,No,No,Hot,Yes,613,3,2027,3,21,6,1
+2027-03-22,Store_4,P001,Grocery,29,436,277,Yes,No,Sunny,No,200,4,2027,3,22,0,0
+2027-03-23,Store_2,P007,Personal Care,247,162,863,No,No,Sunny,Yes,518,1,2027,3,23,1,0
+2027-03-24,Store_1,P008,Pharmacy,284,285,140,No,Yes,Hot,No,339,14,2027,3,24,2,0
+2027-03-25,Store_1,P006,Pharmacy,267,57,829,No,Yes,Hot,Yes,102,1,2027,3,25,3,0
+2027-03-26,Store_2,P005,Grocery,266,220,997,No,No,Rainy,No,322,1,2027,3,26,4,0
+2027-03-27,Store_4,P006,Pharmacy,174,352,73,No,Yes,Cloudy,No,281,9,2027,3,27,5,1
+2027-03-28,Store_1,P002,Grocery,53,417,350,No,Yes,Cloudy,No,803,11,2027,3,28,6,1
+2027-03-29,Store_1,P001,Beverage,148,148,803,Yes,No,Hot,No,219,8,2027,3,29,0,0
+2027-03-30,Store_5,P007,Pharmacy,179,119,260,No,Yes,Hot,Yes,259,5,2027,3,30,1,0
+2027-03-31,Store_4,P007,Pharmacy,108,491,774,Yes,Yes,Sunny,Yes,933,5,2027,3,31,2,0
+2027-04-01,Store_1,P010,Beverage,66,433,549,No,No,Hot,Yes,711,9,2027,4,1,3,0
+2027-04-02,Store_4,P010,Beverage,46,406,502,No,No,Sunny,Yes,963,3,2027,4,2,4,0
+2027-04-03,Store_2,P002,Beverage,136,206,206,No,Yes,Hot,No,702,3,2027,4,3,5,1
+2027-04-04,Store_3,P002,Pharmacy,113,200,877,Yes,No,Rainy,No,314,7,2027,4,4,6,1
+2027-04-05,Store_1,P001,Personal Care,182,324,675,Yes,Yes,Rainy,No,531,9,2027,4,5,0,0
+2027-04-06,Store_5,P010,Personal Care,69,348,281,No,No,Sunny,Yes,708,6,2027,4,6,1,0
+2027-04-07,Store_2,P008,Personal Care,132,60,972,Yes,No,Cloudy,No,900,14,2027,4,7,2,0
+2027-04-08,Store_4,P008,Pharmacy,110,158,383,No,No,Rainy,Yes,415,2,2027,4,8,3,0
+2027-04-09,Store_2,P001,Beverage,225,277,510,No,No,Sunny,No,768,1,2027,4,9,4,0
+2027-04-10,Store_1,P008,Pharmacy,36,59,450,Yes,Yes,Hot,No,157,2,2027,4,10,5,1
+2027-04-11,Store_4,P009,Beverage,33,372,258,Yes,No,Hot,No,858,14,2027,4,11,6,1
+2027-04-12,Store_3,P004,Pharmacy,192,255,323,Yes,No,Sunny,No,897,14,2027,4,12,0,0
+2027-04-13,Store_2,P001,Pharmacy,135,122,317,Yes,No,Cloudy,No,842,1,2027,4,13,1,0
+2027-04-14,Store_1,P001,Beverage,200,179,95,No,Yes,Sunny,Yes,148,10,2027,4,14,2,0
+2027-04-15,Store_5,P003,Personal Care,110,477,719,Yes,Yes,Sunny,No,68,10,2027,4,15,3,0
+2027-04-16,Store_4,P005,Beverage,101,175,352,Yes,No,Rainy,Yes,695,9,2027,4,16,4,0
+2027-04-17,Store_2,P005,Grocery,133,418,919,No,No,Sunny,Yes,808,10,2027,4,17,5,1
+2027-04-18,Store_2,P009,Grocery,66,349,777,Yes,No,Sunny,Yes,312,12,2027,4,18,6,1
+2027-04-19,Store_3,P010,Beverage,24,380,661,Yes,No,Hot,Yes,647,14,2027,4,19,0,0
+2027-04-20,Store_3,P002,Pharmacy,173,297,493,Yes,No,Rainy,Yes,555,13,2027,4,20,1,0
+2027-04-21,Store_5,P002,Grocery,135,404,846,Yes,No,Hot,Yes,330,8,2027,4,21,2,0
+2027-04-22,Store_5,P006,Grocery,285,198,942,No,Yes,Hot,Yes,556,7,2027,4,22,3,0
+2027-04-23,Store_1,P009,Pharmacy,55,394,302,No,No,Cloudy,Yes,922,3,2027,4,23,4,0
+2027-04-24,Store_1,P001,Pharmacy,60,164,610,Yes,No,Cloudy,No,658,8,2027,4,24,5,1
+2027-04-25,Store_5,P009,Personal Care,51,311,91,Yes,No,Rainy,No,253,2,2027,4,25,6,1
+2027-04-26,Store_5,P009,Pharmacy,53,322,282,No,No,Rainy,Yes,228,2,2027,4,26,0,0
+2027-04-27,Store_4,P009,Beverage,26,353,722,Yes,No,Cloudy,Yes,624,11,2027,4,27,1,0
+2027-04-28,Store_3,P005,Beverage,256,385,898,Yes,No,Cloudy,Yes,113,10,2027,4,28,2,0
+2027-04-29,Store_1,P009,Personal Care,61,417,906,Yes,Yes,Cloudy,No,346,3,2027,4,29,3,0
+2027-04-30,Store_3,P004,Grocery,87,84,961,Yes,Yes,Cloudy,No,244,7,2027,4,30,4,0
+2027-05-01,Store_3,P002,Grocery,216,286,594,Yes,Yes,Cloudy,Yes,986,1,2027,5,1,5,1
+2027-05-02,Store_5,P006,Pharmacy,275,437,911,Yes,Yes,Hot,Yes,909,8,2027,5,2,6,1
+2027-05-03,Store_4,P004,Beverage,158,142,31,Yes,Yes,Rainy,No,811,12,2027,5,3,0,0
+2027-05-04,Store_2,P006,Grocery,168,352,160,Yes,Yes,Hot,No,30,7,2027,5,4,1,0
+2027-05-05,Store_4,P003,Personal Care,118,434,785,Yes,No,Hot,Yes,348,4,2027,5,5,2,0
+2027-05-06,Store_4,P006,Personal Care,95,68,574,No,No,Sunny,Yes,31,14,2027,5,6,3,0
+2027-05-07,Store_3,P002,Beverage,128,354,36,No,No,Hot,Yes,54,5,2027,5,7,4,0
+2027-05-08,Store_4,P002,Personal Care,207,498,82,No,No,Cloudy,Yes,466,10,2027,5,8,5,1
+2027-05-09,Store_1,P009,Personal Care,67,496,272,Yes,No,Cloudy,No,471,13,2027,5,9,6,1
+2027-05-10,Store_3,P007,Beverage,173,467,484,Yes,No,Sunny,No,759,1,2027,5,10,0,0
+2027-05-11,Store_1,P003,Pharmacy,59,415,395,No,Yes,Sunny,Yes,239,4,2027,5,11,1,0
+2027-05-12,Store_2,P001,Pharmacy,152,348,823,Yes,No,Sunny,Yes,460,1,2027,5,12,2,0
+2027-05-13,Store_3,P008,Personal Care,151,330,539,No,Yes,Sunny,Yes,672,1,2027,5,13,3,0
+2027-05-14,Store_2,P006,Pharmacy,298,73,856,Yes,Yes,Sunny,No,554,10,2027,5,14,4,0
+2027-05-15,Store_3,P007,Pharmacy,103,336,109,No,No,Hot,Yes,614,1,2027,5,15,5,1
+2027-05-16,Store_5,P009,Personal Care,29,358,739,No,No,Sunny,Yes,248,7,2027,5,16,6,1
+2027-05-17,Store_4,P005,Pharmacy,135,202,823,No,No,Hot,Yes,954,7,2027,5,17,0,0
+2027-05-18,Store_5,P001,Personal Care,128,152,815,Yes,No,Rainy,No,363,4,2027,5,18,1,0
+2027-05-19,Store_2,P010,Grocery,69,463,649,No,No,Sunny,Yes,99,13,2027,5,19,2,0
+2027-05-20,Store_4,P007,Beverage,60,469,880,Yes,No,Sunny,No,372,12,2027,5,20,3,0
+2027-05-21,Store_3,P005,Beverage,166,415,194,Yes,No,Hot,Yes,415,2,2027,5,21,4,0
+2027-05-22,Store_4,P003,Pharmacy,131,223,95,Yes,Yes,Rainy,Yes,309,12,2027,5,22,5,1
+2027-05-23,Store_1,P009,Pharmacy,36,302,632,Yes,No,Hot,Yes,474,3,2027,5,23,6,1
+2027-05-24,Store_4,P001,Pharmacy,65,440,945,Yes,No,Hot,No,862,8,2027,5,24,0,0
+2027-05-25,Store_1,P001,Beverage,290,218,682,Yes,Yes,Sunny,Yes,690,13,2027,5,25,1,0
+2027-05-26,Store_4,P001,Grocery,214,102,419,Yes,No,Cloudy,Yes,147,8,2027,5,26,2,0
+2027-05-27,Store_1,P003,Grocery,299,439,801,No,No,Cloudy,No,721,11,2027,5,27,3,0
+2027-05-28,Store_2,P006,Beverage,59,151,989,No,Yes,Hot,No,928,11,2027,5,28,4,0
+2027-05-29,Store_5,P010,Grocery,49,357,90,No,No,Sunny,No,562,6,2027,5,29,5,1
+2027-05-30,Store_3,P003,Beverage,183,413,199,Yes,No,Rainy,Yes,917,10,2027,5,30,6,1
+2027-05-31,Store_4,P008,Grocery,43,443,143,Yes,No,Cloudy,No,378,9,2027,5,31,0,0
+2027-06-01,Store_5,P010,Personal Care,40,482,400,Yes,No,Rainy,Yes,546,11,2027,6,1,1,0
+2027-06-02,Store_3,P002,Personal Care,23,426,312,Yes,No,Cloudy,No,332,12,2027,6,2,2,0
+2027-06-03,Store_3,P009,Beverage,32,356,816,No,No,Sunny,No,94,9,2027,6,3,3,0
+2027-06-04,Store_1,P003,Grocery,267,68,214,Yes,Yes,Hot,No,565,4,2027,6,4,4,0
+2027-06-05,Store_2,P005,Pharmacy,135,52,930,No,No,Rainy,Yes,890,12,2027,6,5,5,1
+2027-06-06,Store_2,P010,Grocery,20,444,247,Yes,No,Rainy,Yes,215,1,2027,6,6,6,1
+2027-06-07,Store_5,P008,Personal Care,88,277,450,No,Yes,Hot,Yes,862,1,2027,6,7,0,0
+2027-06-08,Store_2,P002,Personal Care,273,305,961,Yes,Yes,Rainy,Yes,48,12,2027,6,8,1,0
+2027-06-09,Store_4,P006,Grocery,200,127,455,No,No,Cloudy,Yes,725,10,2027,6,9,2,0
+2027-06-10,Store_2,P005,Grocery,188,29,806,Yes,Yes,Hot,Yes,35,5,2027,6,10,3,0
+2027-06-11,Store_5,P010,Pharmacy,20,466,480,No,No,Cloudy,Yes,442,14,2027,6,11,4,0
+2027-06-12,Store_2,P009,Pharmacy,66,389,637,Yes,No,Cloudy,Yes,608,13,2027,6,12,5,1
+2027-06-13,Store_4,P005,Grocery,73,140,40,No,Yes,Sunny,Yes,824,2,2027,6,13,6,1
+2027-06-14,Store_1,P002,Grocery,157,165,83,No,No,Cloudy,No,612,6,2027,6,14,0,0
+2027-06-15,Store_5,P005,Grocery,187,193,184,Yes,No,Sunny,No,424,7,2027,6,15,1,0
+2027-06-16,Store_1,P004,Grocery,122,99,46,No,Yes,Rainy,Yes,959,1,2027,6,16,2,0
+2027-06-17,Store_1,P007,Beverage,104,103,330,Yes,Yes,Rainy,Yes,655,6,2027,6,17,3,0
+2027-06-18,Store_1,P006,Grocery,231,22,304,Yes,Yes,Sunny,Yes,550,8,2027,6,18,4,0
+2027-06-19,Store_3,P002,Pharmacy,22,470,679,Yes,Yes,Cloudy,Yes,986,12,2027,6,19,5,1
+2027-06-20,Store_3,P005,Personal Care,198,331,300,No,No,Hot,No,633,5,2027,6,20,6,1
+2027-06-21,Store_1,P007,Beverage,57,302,857,No,Yes,Hot,No,923,14,2027,6,21,0,0
+2027-06-22,Store_5,P007,Grocery,258,442,850,Yes,Yes,Sunny,Yes,96,12,2027,6,22,1,0
+2027-06-23,Store_4,P005,Personal Care,188,239,183,Yes,Yes,Rainy,No,248,7,2027,6,23,2,0
+2027-06-24,Store_4,P009,Beverage,52,495,917,No,Yes,Rainy,No,981,10,2027,6,24,3,0
+2027-06-25,Store_2,P004,Personal Care,209,301,937,No,Yes,Hot,Yes,316,6,2027,6,25,4,0
+2027-06-26,Store_5,P003,Grocery,44,447,243,No,No,Sunny,Yes,529,4,2027,6,26,5,1
+2027-06-27,Store_3,P004,Grocery,131,35,803,Yes,Yes,Hot,Yes,734,7,2027,6,27,6,1
+2027-06-28,Store_1,P005,Pharmacy,225,84,165,Yes,No,Cloudy,Yes,985,10,2027,6,28,0,0
+2027-06-29,Store_2,P006,Grocery,204,465,984,Yes,Yes,Cloudy,No,592,9,2027,6,29,1,0
+2027-06-30,Store_4,P003,Grocery,66,373,969,Yes,Yes,Sunny,Yes,557,10,2027,6,30,2,0
+2027-07-01,Store_3,P002,Beverage,247,433,887,Yes,Yes,Sunny,No,602,10,2027,7,1,3,0
+2027-07-02,Store_3,P004,Pharmacy,58,308,49,No,Yes,Cloudy,Yes,634,13,2027,7,2,4,0
+2027-07-03,Store_1,P005,Beverage,35,159,64,Yes,Yes,Rainy,No,998,7,2027,7,3,5,1
+2027-07-04,Store_4,P004,Personal Care,41,157,806,No,Yes,Sunny,Yes,345,12,2027,7,4,6,1
+2027-07-05,Store_5,P003,Grocery,232,17,490,No,Yes,Cloudy,Yes,382,14,2027,7,5,0,0
+2027-07-06,Store_3,P008,Personal Care,168,38,53,Yes,Yes,Cloudy,No,688,5,2027,7,6,1,0
+2027-07-07,Store_1,P010,Beverage,57,354,672,No,No,Rainy,No,894,7,2027,7,7,2,0
+2027-07-08,Store_5,P004,Grocery,291,483,446,Yes,Yes,Rainy,No,378,3,2027,7,8,3,0
+2027-07-09,Store_4,P002,Grocery,78,423,849,No,No,Rainy,Yes,725,2,2027,7,9,4,0
+2027-07-10,Store_3,P002,Beverage,221,218,905,Yes,Yes,Rainy,No,806,11,2027,7,10,5,1
+2027-07-11,Store_5,P001,Beverage,51,137,240,Yes,No,Hot,No,343,5,2027,7,11,6,1
+2027-07-12,Store_5,P004,Beverage,181,349,887,No,Yes,Rainy,No,717,4,2027,7,12,0,0
+2027-07-13,Store_5,P010,Beverage,44,344,553,Yes,Yes,Hot,No,345,5,2027,7,13,1,0
+2027-07-14,Store_3,P009,Beverage,45,300,711,No,Yes,Sunny,No,644,8,2027,7,14,2,0
+2027-07-15,Store_3,P007,Grocery,28,153,967,Yes,No,Cloudy,No,844,12,2027,7,15,3,0
+2027-07-16,Store_2,P010,Beverage,32,320,386,Yes,No,Hot,No,184,4,2027,7,16,4,0
+2027-07-17,Store_4,P007,Grocery,29,327,951,Yes,No,Sunny,No,592,9,2027,7,17,5,1
+2027-07-18,Store_1,P007,Grocery,233,244,860,No,No,Sunny,No,623,7,2027,7,18,6,1
+2027-07-19,Store_5,P008,Beverage,292,16,762,No,Yes,Hot,Yes,817,10,2027,7,19,0,0
+2027-07-20,Store_2,P001,Beverage,67,473,934,Yes,Yes,Sunny,Yes,474,13,2027,7,20,1,0
+2027-07-21,Store_1,P010,Pharmacy,47,320,569,No,Yes,Sunny,No,988,12,2027,7,21,2,0
+2027-07-22,Store_2,P010,Grocery,52,351,601,Yes,No,Hot,Yes,172,7,2027,7,22,3,0
+2027-07-23,Store_3,P008,Beverage,142,248,135,No,Yes,Sunny,Yes,756,13,2027,7,23,4,0
+2027-07-24,Store_5,P004,Beverage,121,449,258,No,No,Rainy,No,146,13,2027,7,24,5,1
+2027-07-25,Store_1,P004,Beverage,260,441,354,Yes,No,Rainy,No,212,8,2027,7,25,6,1
+2027-07-26,Store_1,P004,Pharmacy,210,164,460,Yes,No,Cloudy,No,646,12,2027,7,26,0,0
+2027-07-27,Store_1,P006,Pharmacy,236,190,167,Yes,No,Sunny,No,793,6,2027,7,27,1,0
+2027-07-28,Store_1,P007,Personal Care,70,224,28,Yes,No,Cloudy,No,549,8,2027,7,28,2,0
+2027-07-29,Store_1,P006,Grocery,100,97,307,Yes,Yes,Rainy,No,29,3,2027,7,29,3,0
+2027-07-30,Store_2,P001,Personal Care,107,265,407,No,No,Rainy,Yes,111,10,2027,7,30,4,0
+2027-07-31,Store_5,P008,Beverage,213,82,69,No,No,Rainy,No,158,10,2027,7,31,5,1
+2027-08-01,Store_3,P010,Pharmacy,56,381,869,Yes,Yes,Sunny,Yes,500,14,2027,8,1,6,1
+2027-08-02,Store_3,P007,Pharmacy,290,188,536,Yes,No,Sunny,No,468,1,2027,8,2,0,0
+2027-08-03,Store_3,P006,Personal Care,115,221,935,Yes,No,Rainy,No,352,6,2027,8,3,1,0
+2027-08-04,Store_3,P006,Pharmacy,217,302,874,No,Yes,Cloudy,Yes,888,1,2027,8,4,2,0
+2027-08-05,Store_2,P005,Beverage,20,243,657,Yes,Yes,Cloudy,No,359,9,2027,8,5,3,0
+2027-08-06,Store_4,P006,Pharmacy,186,474,606,Yes,Yes,Hot,No,980,14,2027,8,6,4,0
+2027-08-07,Store_5,P009,Personal Care,60,470,696,No,No,Rainy,Yes,71,2,2027,8,7,5,1
+2027-08-08,Store_1,P010,Beverage,49,479,297,No,Yes,Cloudy,No,726,11,2027,8,8,6,1
+2027-08-09,Store_4,P009,Personal Care,68,366,973,No,Yes,Rainy,Yes,485,2,2027,8,9,0,0
+2027-08-10,Store_3,P010,Pharmacy,67,412,855,No,Yes,Cloudy,No,737,7,2027,8,10,1,0
+2027-08-11,Store_4,P008,Personal Care,92,273,319,Yes,No,Hot,No,818,2,2027,8,11,2,0
+2027-08-12,Store_5,P010,Personal Care,27,343,821,No,Yes,Hot,Yes,494,10,2027,8,12,3,0
+2027-08-13,Store_1,P009,Grocery,68,459,608,No,No,Rainy,No,420,8,2027,8,13,4,0
+2027-08-14,Store_1,P010,Pharmacy,66,309,829,Yes,No,Cloudy,Yes,458,6,2027,8,14,5,1
+2027-08-15,Store_5,P008,Pharmacy,264,231,668,Yes,Yes,Sunny,Yes,897,14,2027,8,15,6,1
+2027-08-16,Store_5,P008,Personal Care,22,375,637,Yes,No,Hot,Yes,624,7,2027,8,16,0,0
+2027-08-17,Store_3,P001,Grocery,82,285,626,No,No,Rainy,No,951,7,2027,8,17,1,0
+2027-08-18,Store_1,P010,Pharmacy,20,363,154,Yes,Yes,Rainy,No,941,6,2027,8,18,2,0
+2027-08-19,Store_4,P005,Beverage,95,240,599,No,No,Cloudy,Yes,840,10,2027,8,19,3,0
+2027-08-20,Store_2,P004,Personal Care,194,318,166,No,Yes,Rainy,No,676,11,2027,8,20,4,0
+2027-08-21,Store_2,P002,Pharmacy,128,128,509,No,No,Hot,No,617,9,2027,8,21,5,1
+2027-08-22,Store_5,P008,Beverage,202,277,497,Yes,No,Rainy,No,528,13,2027,8,22,6,1
+2027-08-23,Store_3,P003,Pharmacy,211,442,178,No,Yes,Rainy,Yes,172,9,2027,8,23,0,0
+2027-08-24,Store_2,P004,Beverage,84,282,403,Yes,Yes,Sunny,No,533,7,2027,8,24,1,0
+2027-08-25,Store_1,P007,Personal Care,290,73,182,Yes,No,Sunny,Yes,522,9,2027,8,25,2,0
+2027-08-26,Store_5,P010,Pharmacy,31,368,460,Yes,No,Hot,No,873,13,2027,8,26,3,0
+2027-08-27,Store_4,P009,Pharmacy,24,367,872,No,Yes,Cloudy,No,920,10,2027,8,27,4,0
+2027-08-28,Store_5,P002,Grocery,147,422,208,No,No,Sunny,Yes,791,3,2027,8,28,5,1
+2027-08-29,Store_4,P003,Personal Care,62,412,434,No,No,Cloudy,No,695,3,2027,8,29,6,1
+2027-08-30,Store_5,P004,Beverage,97,20,358,Yes,No,Hot,Yes,25,1,2027,8,30,0,0
+2027-08-31,Store_5,P010,Pharmacy,43,327,626,No,No,Sunny,No,519,5,2027,8,31,1,0
+2027-09-01,Store_5,P001,Pharmacy,181,443,200,No,Yes,Cloudy,Yes,680,4,2027,9,1,2,0
+2027-09-02,Store_4,P007,Beverage,208,80,307,No,Yes,Sunny,No,736,2,2027,9,2,3,0
+2027-09-03,Store_4,P002,Personal Care,266,373,853,No,Yes,Hot,No,137,9,2027,9,3,4,0
+2027-09-04,Store_5,P005,Grocery,235,67,206,No,Yes,Hot,No,504,3,2027,9,4,5,1
+2027-09-05,Store_2,P001,Grocery,187,299,903,Yes,Yes,Sunny,Yes,620,8,2027,9,5,6,1
+2027-09-06,Store_3,P003,Pharmacy,212,260,157,Yes,Yes,Cloudy,Yes,685,6,2027,9,6,0,0
+2027-09-07,Store_3,P002,Beverage,32,285,149,Yes,No,Rainy,Yes,970,14,2027,9,7,1,0
+2027-09-08,Store_3,P001,Pharmacy,259,59,213,Yes,Yes,Rainy,No,698,13,2027,9,8,2,0
+2027-09-09,Store_4,P007,Beverage,166,367,335,No,No,Sunny,Yes,487,5,2027,9,9,3,0
+2027-09-10,Store_4,P005,Grocery,223,225,804,Yes,No,Cloudy,Yes,180,1,2027,9,10,4,0
+2027-09-11,Store_2,P001,Personal Care,99,403,883,No,No,Rainy,Yes,289,4,2027,9,11,5,1
+2027-09-12,Store_3,P006,Beverage,62,425,163,Yes,Yes,Hot,Yes,75,3,2027,9,12,6,1
+2027-09-13,Store_3,P005,Grocery,108,61,35,Yes,No,Cloudy,Yes,247,1,2027,9,13,0,0
+2027-09-14,Store_5,P003,Pharmacy,167,280,321,Yes,Yes,Rainy,Yes,868,12,2027,9,14,1,0
+2027-09-15,Store_4,P007,Beverage,114,494,442,No,No,Cloudy,Yes,168,5,2027,9,15,2,0
+2027-09-16,Store_3,P010,Personal Care,25,480,264,No,No,Sunny,Yes,65,6,2027,9,16,3,0
+2027-09-17,Store_2,P009,Pharmacy,44,415,946,Yes,Yes,Cloudy,Yes,163,2,2027,9,17,4,0
+2027-09-18,Store_2,P009,Pharmacy,20,350,126,No,No,Rainy,Yes,769,14,2027,9,18,5,1
+2027-09-19,Store_3,P009,Grocery,44,480,107,Yes,No,Sunny,No,803,3,2027,9,19,6,1
+2027-09-20,Store_4,P002,Beverage,225,305,148,Yes,No,Cloudy,No,651,11,2027,9,20,0,0
+2027-09-21,Store_2,P003,Pharmacy,133,81,926,Yes,No,Hot,Yes,359,14,2027,9,21,1,0
+2027-09-22,Store_5,P007,Personal Care,291,305,906,No,Yes,Rainy,No,432,6,2027,9,22,2,0
+2027-09-23,Store_2,P005,Beverage,102,245,360,Yes,No,Sunny,No,751,4,2027,9,23,3,0
+2027-09-24,Store_1,P002,Personal Care,198,65,23,Yes,No,Cloudy,Yes,539,9,2027,9,24,4,0
+2027-09-25,Store_1,P003,Pharmacy,229,416,346,Yes,Yes,Hot,Yes,363,5,2027,9,25,5,1
+2027-09-26,Store_4,P010,Personal Care,20,303,429,No,No,Rainy,Yes,406,4,2027,9,26,6,1
+2027-09-27,Store_3,P006,Grocery,132,404,898,Yes,No,Hot,No,492,2,2027,9,27,0,0
